@@ -1,5 +1,5 @@
 # Esempio di applicazione dell'API explore
-# Restituisce in output i primi 50 luoghi entro 30km dal centro di Catania
+# Restituisce in output i primi 50 luoghi più raccomandati entro 30km dal centro di Catania
 
 import json, requests
 
