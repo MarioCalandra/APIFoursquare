@@ -1,13 +1,15 @@
-import json, requests
-from jsonFSmng import json_explore
+# Esempio di applicazione dell'API explore
+# Restituisce in output i primi 50 luoghi entro 30km dal centro di Catania appartenenti alla sezione 'piazze'
 
-client_id = 'HY5VTLYMVXHH0SOTC2MR2PGZTIGZJ2ZQN4T4RHDADQNWQWLL'
-client_secret = 'RLZUPWGYNKKLJN13WUNGFTI4SQJKWQFHRPCZ1RVYID0I2BBO'
+import json, requests
+
+client_id = 'SMM'
+client_secret = 'SMM'
 versioning = '20180122'
 
-url = 'https://api.foursquare.com/v2/venues/explore'
+url = 'https://api.foursquare.com/v2/venues/explore'	#url a cui fare richiesta per l'explore
 
-params = dict(
+params = dict(		#definisce i parametri in input all'explore
 	client_id=client_id, 
 	client_secret=client_secret, 
 	v=versioning,
@@ -17,13 +19,9 @@ params = dict(
 	section='plazas'
 )
 
-resp = requests.get(url=url, params=params)
-data = json.loads(resp.text)
-
-exp = json_explore(data)
+resp = requests.get(url=url, params=params)		#esegue la get all'url indicato passando i parametri contenuti nel dizionario params
+data = json.loads(resp.text)		#carica in data in formato json il risultato ottenuto tramite la get
 	
-with open('explore_out/sort_checkins.json', 'w') as out:
-	for l in exp.sortByCheckins():
-		json.dump(l, out, indent=3)
-	out.close()
+with open('explore.json', 'w') as out:
+	json.dump(data, out, indent=2)		#stampa in "explore.json" il contenuto di data con indentazione pari a 2
 		
