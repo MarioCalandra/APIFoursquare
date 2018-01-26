@@ -19,7 +19,7 @@ params = dict(		#definisce i parametri in input all'explore
 )
 
 resp = requests.get(url=url, params=params)		#esegue la get all'url indicato passando i parametri contenuti nel dizionario params
-data = json.loads(resp.text)		#carica in data in formato json il risultato ottenuto tramite la get
+data = json.loads(resp.text)		#carica in data il risultato ottenuto tramite la get in formato json 
 	
 with open('explore.json', 'w') as out:
 	json.dump(data, out, indent=2)		#stampa in "explore.json" il contenuto di data con indentazione pari a 2
