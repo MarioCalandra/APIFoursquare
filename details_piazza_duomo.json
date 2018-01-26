@@ -1,0 +1,1694 @@
+{
+   "meta": {
+      "code": 200, 
+      "requestId": "5a6b5faef594df1963b1ca04"
+   }, 
+   "response": {
+      "venue": {
+         "rating": 9.4, 
+         "reasons": {
+            "count": 1, 
+            "items": [
+               {
+                  "reasonName": "rawLikesReason", 
+                  "type": "general", 
+                  "summary": "Lots of people like this place"
+               }
+            ]
+         }, 
+         "colors": {
+            "highlightTextColor": {
+               "photoId": "502fa2a2e4b0c65b4adfd80d", 
+               "value": -1
+            }, 
+            "highlightColor": {
+               "photoId": "502fa2a2e4b0c65b4adfd80d", 
+               "value": -12042176
+            }, 
+            "algoVersion": 3
+         }, 
+         "likes": {
+            "count": 215, 
+            "groups": [
+               {
+                  "count": 215, 
+                  "items": [], 
+                  "type": "others"
+               }
+            ], 
+            "summary": "215 Likes"
+         }, 
+         "beenHere": {
+            "count": 0, 
+            "unconfirmedCount": 0, 
+            "marked": false, 
+            "lastCheckinExpiredAt": 0
+         }, 
+         "id": "4cf16112f98ba090661cc873", 
+         "createdAt": 1290887442, 
+         "verified": false, 
+         "hereNow": {
+            "count": 0, 
+            "groups": [], 
+            "summary": "Nobody here"
+         }, 
+         "shortUrl": "http://4sq.com/ieKoSV", 
+         "pageUpdates": {
+            "count": 0, 
+            "items": []
+         }, 
+         "contact": {}, 
+         "location": {
+            "city": "Catania", 
+            "labeledLatLngs": [
+               {
+                  "lat": 37.50247132417524, 
+                  "lng": 15.087158262874627, 
+                  "label": "display"
+               }
+            ], 
+            "cc": "IT", 
+            "country": "Italia", 
+            "postalCode": "95131", 
+            "state": "Sicilia", 
+            "formattedAddress": [
+               "Piazza Duomo", 
+               "95131 Catania Sicilia", 
+               "Italia"
+            ], 
+            "address": "Piazza Duomo", 
+            "lat": 37.50247132417524, 
+            "lng": 15.087158262874627
+         }, 
+         "tips": {
+            "count": 39, 
+            "groups": [
+               {
+                  "count": 39, 
+                  "items": [
+                     {
+                        "lang": "en", 
+                        "todo": {
+                           "count": 3
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/51fe3797498e9a45e4447228", 
+                        "photourl": "https://igx.4sqi.net/img/general/original/47126040_4TNfERh0jC_m-7X7Dhrh_kOKTlLxNCdLDiVpomER8js.jpg", 
+                        "photo": {
+                           "suffix": "/47126040_4TNfERh0jC_m-7X7Dhrh_kOKTlLxNCdLDiVpomER8js.jpg", 
+                           "width": 720, 
+                           "visibility": "public", 
+                           "height": 720, 
+                           "source": {
+                              "url": "https://foursquare.com/download/#/iphone", 
+                              "name": "Foursquare for iOS"
+                           }, 
+                           "prefix": "https://igx.4sqi.net/img/general/", 
+                           "id": "51fe379a498ec31696a875be", 
+                           "createdAt": 1375614874
+                        }, 
+                        "agreeCount": 65, 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "likes": {
+                           "count": 65, 
+                           "groups": [
+                              {
+                                 "count": 65, 
+                                 "items": [], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "65 likes"
+                        }, 
+                        "text": "Simply beautiful \u2764", 
+                        "type": "user", 
+                        "id": "51fe3797498e9a45e4447228", 
+                        "createdAt": 1375614871, 
+                        "user": {
+                           "lastName": "f\u00e9minine", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/47126040-Q3CNKREK5SNLJV4Y.jpg"
+                           }, 
+                           "id": "47126040", 
+                           "firstName": "fl\u00e2nerie", 
+                           "gender": "female"
+                        }
+                     }, 
+                     {
+                        "lang": "it", 
+                        "todo": {
+                           "count": 1
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/4f8817b1e4b09582a10857da", 
+                        "agreeCount": 10, 
+                        "text": "Una delle pi\u00f9 belle piazze d'Italia! E' perimetrata dal Municipio sul lato nord, dalla Fontana dell'Amenano su quello opposto. Accanto il Palazzo dei Chierici. Al centro 'U LIOTRU, simbolo di Catania!", 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "likes": {
+                           "count": 11, 
+                           "groups": [
+                              {
+                                 "count": 11, 
+                                 "items": [], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "11 likes"
+                        }, 
+                        "type": "user", 
+                        "id": "4f8817b1e4b09582a10857da", 
+                        "createdAt": 1334319025, 
+                        "user": {
+                           "lastName": "Catanesi", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/PQE0K4OILWUWWWGD.jpg"
+                           }, 
+                           "id": "25606873", 
+                           "firstName": "Fascisti", 
+                           "gender": "none"
+                        }
+                     }, 
+                     {
+                        "lang": "it", 
+                        "todo": {
+                           "count": 0
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/4ea14fb0722ec75addc928ad", 
+                        "agreeCount": 10, 
+                        "text": "\u00c8 la piazza principale di Catania. Costruita dopo il terremoto del 1693, \u00e8 stata completamente ristrutturata e rinnovata nel 2008", 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "likes": {
+                           "count": 10, 
+                           "groups": [
+                              {
+                                 "count": 10, 
+                                 "items": [], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "10 likes"
+                        }, 
+                        "type": "user", 
+                        "id": "4ea14fb0722ec75addc928ad", 
+                        "createdAt": 1319194544, 
+                        "user": {
+                           "gender": "none", 
+                           "type": "page", 
+                           "id": "15331066", 
+                           "firstName": "CityMap Sicilia", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/15331066-BLXO3MEHSK0UVORS.jpg"
+                           }
+                        }
+                     }, 
+                     {
+                        "lang": "ru", 
+                        "todo": {
+                           "count": 0
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/50466546e4b04d16cce590e1", 
+                        "photourl": "https://igx.4sqi.net/img/general/original/oD9jxIm5LMgKDwJi-cT5WE4hHyCoYuWlWgXEYb0pYWw.jpg", 
+                        "photo": {
+                           "suffix": "/oD9jxIm5LMgKDwJi-cT5WE4hHyCoYuWlWgXEYb0pYWw.jpg", 
+                           "width": 540, 
+                           "visibility": "public", 
+                           "height": 720, 
+                           "source": {
+                              "url": "https://foursquare.com/download/#/android", 
+                              "name": "Foursquare for Android"
+                           }, 
+                           "prefix": "https://igx.4sqi.net/img/general/", 
+                           "id": "5046654ae4b0ee569981f02d", 
+                           "createdAt": 1346790730
+                        }, 
+                        "agreeCount": 5, 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "authorInteractionType": "liked", 
+                        "likes": {
+                           "count": 5, 
+                           "groups": [
+                              {
+                                 "count": 5, 
+                                 "items": [
+                                    {
+                                       "lastName": "Robert", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/4YDA1JVZHCNARNX0.jpg"
+                                       }, 
+                                       "id": "3317069", 
+                                       "firstName": "Michael", 
+                                       "gender": "male"
+                                    }, 
+                                    {
+                                       "lastName": "Lansh", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/EJCXO0T4SDHZ4BVS.jpg"
+                                       }, 
+                                       "id": "58638681", 
+                                       "firstName": "Katerina", 
+                                       "gender": "female"
+                                    }, 
+                                    {
+                                       "lastName": "Li", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/0AC0CU2Z0WDZ1UZN.jpg"
+                                       }, 
+                                       "id": "49960569", 
+                                       "firstName": "Aleksandra", 
+                                       "gender": "female"
+                                    }, 
+                                    {
+                                       "lastName": "Chizhenko", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/LJBB21WKQNIGN0JQ.jpg"
+                                       }, 
+                                       "id": "41663664", 
+                                       "firstName": "Dmitry", 
+                                       "gender": "male"
+                                    }
+                                 ], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "5 likes"
+                        }, 
+                        "text": "\u0420\u044f\u0434\u043e\u043c \u0441 \u043f\u043b\u043e\u0449\u0430\u0434\u044c\u044e \u0435\u0441\u0442\u044c \u043f\u0440\u0438\u043a\u043e\u043b\u044c\u043d\u044b\u0439 \u043f\u0430\u043c\u044f\u0442\u043d\u0438\u043a!", 
+                        "type": "user", 
+                        "id": "50466546e4b04d16cce590e1", 
+                        "createdAt": 1346790726, 
+                        "user": {
+                           "lastName": "\u0412\u0435\u0440\u0435\u0449", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/BEYMRE0R0JIGFY4F.jpg"
+                           }, 
+                           "id": "36229353", 
+                           "firstName": "\u041c\u0430\u0440\u0438\u043d\u0430", 
+                           "gender": "female"
+                        }
+                     }, 
+                     {
+                        "lang": "it", 
+                        "todo": {
+                           "count": 2
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/4f5fe0e6e4b039b6750934d5", 
+                        "agreeCount": 5, 
+                        "text": "Piazza principale della citt\u00e0. Al centro si trova quello che \u00e8 il simbolo di Catania, \"u Liotru\"; statua in pietra lavica raffigurante un elefante, sormontata da un obelisco.", 
+                        "logView": true, 
+                        "disagreeCount": 1, 
+                        "likes": {
+                           "count": 5, 
+                           "groups": [
+                              {
+                                 "count": 5, 
+                                 "items": [
+                                    {
+                                       "lastName": "Camarda", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/GZOWRLGZGD0KO14K.jpg"
+                                       }, 
+                                       "id": "29136030", 
+                                       "firstName": "Valentina", 
+                                       "gender": "female"
+                                    }, 
+                                    {
+                                       "lastName": "De Santis", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/-OQYOWE43EYFRPWC3.jpg"
+                                       }, 
+                                       "id": "1677675", 
+                                       "firstName": "Valentina", 
+                                       "gender": "female"
+                                    }, 
+                                    {
+                                       "lastName": "Avena", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/5MD2GORLRQHJFIOT.jpg"
+                                       }, 
+                                       "id": "18121246", 
+                                       "firstName": "Simona", 
+                                       "gender": "female"
+                                    }, 
+                                    {
+                                       "lastName": "G.", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/G4SKCR2UYRVHNHK0.jpg"
+                                       }, 
+                                       "id": "52634830", 
+                                       "firstName": "Stefania", 
+                                       "gender": "female"
+                                    }
+                                 ], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "5 likes"
+                        }, 
+                        "type": "user", 
+                        "id": "4f5fe0e6e4b039b6750934d5", 
+                        "createdAt": 1331683558, 
+                        "user": {
+                           "gender": "male", 
+                           "id": "3245244", 
+                           "firstName": "Sebastian", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/3245244-BPS4QA2HH1TUEFR2"
+                           }
+                        }
+                     }, 
+                     {
+                        "lang": "it", 
+                        "todo": {
+                           "count": 0
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/515e6c2ee4b09e5bbef3fa89", 
+                        "agreeCount": 3, 
+                        "text": "Scoprite le antiche Terme romane che stanno sotto la Piazza!!! Dovete chiedere al vicino Museo Diocesano in via Etnea 8!", 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "likes": {
+                           "count": 3, 
+                           "groups": [
+                              {
+                                 "count": 3, 
+                                 "items": [
+                                    {
+                                       "lastName": "Degli Elefanti", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/77186304-AA2WZOY3Y3L4FXCD"
+                                       }, 
+                                       "id": "77186304", 
+                                       "firstName": "Ostello", 
+                                       "gender": "none"
+                                    }, 
+                                    {
+                                       "lastName": "Russo", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/3DRWX0DHFNVUR3UY.jpg"
+                                       }, 
+                                       "id": "68752685", 
+                                       "firstName": "Sebastiano", 
+                                       "gender": "male"
+                                    }, 
+                                    {
+                                       "lastName": "Mannino", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/R1MW4JRCV0C4BWU2.jpg"
+                                       }, 
+                                       "id": "49628609", 
+                                       "firstName": "Ciccio", 
+                                       "gender": "male"
+                                    }
+                                 ], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "3 likes"
+                        }, 
+                        "type": "user", 
+                        "id": "515e6c2ee4b09e5bbef3fa89", 
+                        "createdAt": 1365142574, 
+                        "user": {
+                           "lastName": "Bonacini", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/UGQDBLS1GFPFHLMX.jpg"
+                           }, 
+                           "id": "52487455", 
+                           "firstName": "Elisa", 
+                           "gender": "female"
+                        }
+                     }, 
+                     {
+                        "lang": "en", 
+                        "todo": {
+                           "count": 0
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/5020288ee4b041df88606f8f", 
+                        "photourl": "https://igx.4sqi.net/img/general/original/yoUgF4J6-NHOym2H2szV0fj0sr0hfMtPlV9fXBH2NT0.jpg", 
+                        "photo": {
+                           "suffix": "/yoUgF4J6-NHOym2H2szV0fj0sr0hfMtPlV9fXBH2NT0.jpg", 
+                           "width": 1228, 
+                           "visibility": "public", 
+                           "height": 1818, 
+                           "source": {
+                              "url": "https://foursquare.com", 
+                              "name": "Foursquare Web"
+                           }, 
+                           "prefix": "https://igx.4sqi.net/img/general/", 
+                           "id": "50202896c84c9517a676ba80", 
+                           "createdAt": 1344284822
+                        }, 
+                        "agreeCount": 3, 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "authorInteractionType": "liked", 
+                        "likes": {
+                           "count": 3, 
+                           "groups": [
+                              {
+                                 "count": 3, 
+                                 "items": [
+                                    {
+                                       "lastName": "Korkut", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/DO1G2K2YSE42QYZ3.jpg"
+                                       }, 
+                                       "id": "53861944", 
+                                       "firstName": "Safak", 
+                                       "gender": "male"
+                                    }, 
+                                    {
+                                       "lastName": "De Santis", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/-OQYOWE43EYFRPWC3.jpg"
+                                       }, 
+                                       "id": "1677675", 
+                                       "firstName": "Valentina", 
+                                       "gender": "female"
+                                    }
+                                 ], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "3 likes"
+                        }, 
+                        "text": "Love this square...It was empty at noon because of siesta and i took photos of empty streets...(:", 
+                        "type": "user", 
+                        "id": "5020288ee4b041df88606f8f", 
+                        "createdAt": 1344284814, 
+                        "user": {
+                           "lastName": "\ud83d\udcf7 Photography", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/8684789_xsS-lX0g_B4BrAfLOtUyuiTZxOdWvTW4LdMGTfwNycWPYdy37X6WitmDzgmbfQ7XhyK05QXaL.jpg"
+                           }, 
+                           "id": "8684789", 
+                           "firstName": "Sadalmelek", 
+                           "gender": "none"
+                        }
+                     }, 
+                     {
+                        "lang": "it", 
+                        "editedAt": 1393857922, 
+                        "todo": {
+                           "count": 1
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/53149551498e8927d21dbbb1", 
+                        "agreeCount": 2, 
+                        "url": "http://www.ostellodeglielefanti.it", 
+                        "text": "L'ostello degli Elefanti \u00e8 a pochi metri dal mitico Liotro: il nostro caro elefante. Imbocca la via Etnea il primo portone sulla destra \u00e8 Via Etnea,  28 ci travate scala A II Piano. il nostro sitoweb", 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "authorInteractionType": "liked", 
+                        "likes": {
+                           "count": 2, 
+                           "groups": [
+                              {
+                                 "count": 2, 
+                                 "items": [
+                                    {
+                                       "gender": "female", 
+                                       "id": "38410649", 
+                                       "firstName": "Anastasiya", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/38410649_gHwdKjxM_jBllUQvOB0aagGYdGubiLKs96ZZH8UVD1_Kp9OosNeUZh70P74GsKD45v-TE5qLv.jpg"
+                                       }
+                                    }, 
+                                    {
+                                       "lastName": "Degli Elefanti", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/77186304-AA2WZOY3Y3L4FXCD"
+                                       }, 
+                                       "id": "77186304", 
+                                       "firstName": "Ostello", 
+                                       "gender": "none"
+                                    }
+                                 ], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "2 likes"
+                        }, 
+                        "type": "user", 
+                        "id": "53149551498e8927d21dbbb1", 
+                        "createdAt": 1393857873, 
+                        "user": {
+                           "lastName": "Degli Elefanti", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/77186304-AA2WZOY3Y3L4FXCD"
+                           }, 
+                           "id": "77186304", 
+                           "firstName": "Ostello", 
+                           "gender": "none"
+                        }
+                     }, 
+                     {
+                        "lang": "it", 
+                        "todo": {
+                           "count": 0
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/50a23b3de4b090c28574caf4", 
+                        "agreeCount": 2, 
+                        "text": "La cassatina del Bar Duomo \u00e8 favolosa!!!", 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "likes": {
+                           "count": 2, 
+                           "groups": [
+                              {
+                                 "count": 2, 
+                                 "items": [
+                                    {
+                                       "lastName": "Degli Elefanti", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/77186304-AA2WZOY3Y3L4FXCD"
+                                       }, 
+                                       "id": "77186304", 
+                                       "firstName": "Ostello", 
+                                       "gender": "none"
+                                    }, 
+                                    {
+                                       "lastName": "De Santis", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/-OQYOWE43EYFRPWC3.jpg"
+                                       }, 
+                                       "id": "1677675", 
+                                       "firstName": "Valentina", 
+                                       "gender": "female"
+                                    }
+                                 ], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "2 likes"
+                        }, 
+                        "type": "user", 
+                        "id": "50a23b3de4b090c28574caf4", 
+                        "createdAt": 1352809277, 
+                        "user": {
+                           "lastName": "Cerullo", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/H4HS42Z1QSWJLQJH.jpg"
+                           }, 
+                           "id": "11972701", 
+                           "firstName": "Pietro", 
+                           "gender": "male"
+                        }
+                     }, 
+                     {
+                        "lang": "tr", 
+                        "todo": {
+                           "count": 0
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/570160ac498ef5c308f89a20", 
+                        "agreeCount": 1, 
+                        "text": "Meydan i\u015fte :)", 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "authorInteractionType": "liked", 
+                        "likes": {
+                           "count": 1, 
+                           "groups": [
+                              {
+                                 "count": 1, 
+                                 "items": [
+                                    {
+                                       "lastName": "Pasl\u0131", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/114510991_BKZxi2qX_BSQHQXpJN4skIXmlmDGKZnXVQCfZSKeOSFjsNhb7Pztisnglfrb1VPoJZeSzTFQj.jpg"
+                                       }, 
+                                       "id": "114510991", 
+                                       "firstName": "Fatih", 
+                                       "gender": "male"
+                                    }
+                                 ], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "1 like"
+                        }, 
+                        "type": "user", 
+                        "id": "570160ac498ef5c308f89a20", 
+                        "createdAt": 1459708076, 
+                        "user": {
+                           "lastName": "Pasl\u0131", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/114510991_BKZxi2qX_BSQHQXpJN4skIXmlmDGKZnXVQCfZSKeOSFjsNhb7Pztisnglfrb1VPoJZeSzTFQj.jpg"
+                           }, 
+                           "id": "114510991", 
+                           "firstName": "Fatih", 
+                           "gender": "male"
+                        }
+                     }, 
+                     {
+                        "lang": "en", 
+                        "todo": {
+                           "count": 0
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/5673d690498e8b6e8ea4a929", 
+                        "photourl": "https://igx.4sqi.net/img/general/original/84945309_tdPIHd704Oh5d4_qCoHomI2e9Cj6DSPAx5mheqsfTbA.jpg", 
+                        "photo": {
+                           "suffix": "/84945309_tdPIHd704Oh5d4_qCoHomI2e9Cj6DSPAx5mheqsfTbA.jpg", 
+                           "width": 1920, 
+                           "visibility": "public", 
+                           "height": 1440, 
+                           "source": {
+                              "url": "https://foursquare.com/download/#/iphone", 
+                              "name": "Foursquare for iOS"
+                           }, 
+                           "prefix": "https://igx.4sqi.net/img/general/", 
+                           "id": "5673d691498eafd1013219d9", 
+                           "createdAt": 1450432145
+                        }, 
+                        "agreeCount": 1, 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "authorInteractionType": "liked", 
+                        "likes": {
+                           "count": 1, 
+                           "groups": [
+                              {
+                                 "count": 1, 
+                                 "items": [], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "1 like"
+                        }, 
+                        "text": "The fish market to the side must be visited too", 
+                        "type": "user", 
+                        "id": "5673d690498e8b6e8ea4a929", 
+                        "createdAt": 1450432144, 
+                        "user": {
+                           "lastName": "Everett", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/84945309-BQ1SR5Q52PFZJYNZ.jpg"
+                           }, 
+                           "id": "84945309", 
+                           "firstName": "Daniel", 
+                           "gender": "male"
+                        }
+                     }, 
+                     {
+                        "lang": "en", 
+                        "todo": {
+                           "count": 0
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/5544944c498eaa1dab7ed350", 
+                        "photourl": "https://igx.4sqi.net/img/general/original/43403021_WqYsZt5O4Fa_BTA18Br5uY2qQDOGCJ0Nw4x4bXIRflQ.jpg", 
+                        "photo": {
+                           "suffix": "/43403021_WqYsZt5O4Fa_BTA18Br5uY2qQDOGCJ0Nw4x4bXIRflQ.jpg", 
+                           "width": 1440, 
+                           "visibility": "public", 
+                           "height": 1440, 
+                           "source": {
+                              "url": "https://foursquare.com/download/#/iphone", 
+                              "name": "Foursquare for iOS"
+                           }, 
+                           "prefix": "https://igx.4sqi.net/img/general/", 
+                           "id": "55449451498e7155d564f435", 
+                           "createdAt": 1430557777
+                        }, 
+                        "agreeCount": 1, 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "authorInteractionType": "liked", 
+                        "likes": {
+                           "count": 1, 
+                           "groups": [
+                              {
+                                 "count": 1, 
+                                 "items": [], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "1 like"
+                        }, 
+                        "text": "Probably the most spectacular spot in Catania", 
+                        "type": "user", 
+                        "id": "5544944c498eaa1dab7ed350", 
+                        "createdAt": 1430557772, 
+                        "user": {
+                           "lastName": "Kuran", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/43403021-IMXHUMTKIH34XI4J.jpg"
+                           }, 
+                           "id": "43403021", 
+                           "firstName": "Fatih", 
+                           "gender": "male"
+                        }
+                     }, 
+                     {
+                        "lang": "it", 
+                        "todo": {
+                           "count": 0
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/526ab724498ea0cf40abae1a", 
+                        "agreeCount": 1, 
+                        "text": "Uno dei posti che ti fa innamorare di Catania e che ti fa sentire a casa", 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "likes": {
+                           "count": 1, 
+                           "groups": [
+                              {
+                                 "count": 1, 
+                                 "items": [
+                                    {
+                                       "gender": "female", 
+                                       "id": "83288538", 
+                                       "firstName": "AnimaInViaggio", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/-U4WFPMUD33QXTRXJ.jpg"
+                                       }
+                                    }
+                                 ], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "1 like"
+                        }, 
+                        "type": "user", 
+                        "id": "526ab724498ea0cf40abae1a", 
+                        "createdAt": 1382725412, 
+                        "user": {
+                           "gender": "none", 
+                           "type": "page", 
+                           "id": "70118395", 
+                           "firstName": "CATANIA DA BERE", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/JKBPN0RCEP0POJBV.jpg"
+                           }
+                        }
+                     }, 
+                     {
+                        "lang": "it", 
+                        "todo": {
+                           "count": 0
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/508eef14e4b095c5d70d4418", 
+                        "agreeCount": 1, 
+                        "text": "Fate il giro sul treninoooo", 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "likes": {
+                           "count": 1, 
+                           "groups": [
+                              {
+                                 "count": 1, 
+                                 "items": [
+                                    {
+                                       "lastName": "T\u00fcrk", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/4RH4DSEQYRSMHZI2.jpg"
+                                       }, 
+                                       "id": "18268477", 
+                                       "firstName": "Gea", 
+                                       "gender": "none"
+                                    }
+                                 ], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "1 like"
+                        }, 
+                        "type": "user", 
+                        "id": "508eef14e4b095c5d70d4418", 
+                        "createdAt": 1351544596, 
+                        "user": {
+                           "lastName": "Gravina", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/VQHBF5ATLU1024WY.jpg"
+                           }, 
+                           "id": "26036005", 
+                           "firstName": "Jole", 
+                           "gender": "female"
+                        }
+                     }, 
+                     {
+                        "lang": "it", 
+                        "todo": {
+                           "count": 0
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/4fabfb05e4b054092ded9a36", 
+                        "agreeCount": 1, 
+                        "text": "Dal 21 al 24 Giugno venite a visitare il Tour Lancia Eleganza in movimento. Un percorso alla scoperta dell'eccellenza MADE IN ITALY con Venchi, Alessi e Italia Indipendent.", 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "likes": {
+                           "count": 1, 
+                           "groups": [
+                              {
+                                 "count": 1, 
+                                 "items": [
+                                    {
+                                       "gender": "male", 
+                                       "id": "1701925", 
+                                       "firstName": "Simone", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/I5IFXKVQ4B0HERGG.jpg"
+                                       }
+                                    }
+                                 ], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "1 like"
+                        }, 
+                        "type": "user", 
+                        "id": "4fabfb05e4b054092ded9a36", 
+                        "createdAt": 1336670981, 
+                        "user": {
+                           "gender": "none", 
+                           "type": "page", 
+                           "id": "13113999", 
+                           "firstName": "Lancia", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/IM0C15MTSZUOP5JN.png"
+                           }
+                        }
+                     }, 
+                     {
+                        "lang": "it", 
+                        "todo": {
+                           "count": 1
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/4f22808fe4b063d4fe73b49b", 
+                        "agreeCount": 1, 
+                        "text": "Un salotto pieno di colori e profumi", 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "likes": {
+                           "count": 1, 
+                           "groups": [
+                              {
+                                 "count": 1, 
+                                 "items": [
+                                    {
+                                       "lastName": "Mannino", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/R1MW4JRCV0C4BWU2.jpg"
+                                       }, 
+                                       "id": "49628609", 
+                                       "firstName": "Ciccio", 
+                                       "gender": "male"
+                                    }
+                                 ], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "1 like"
+                        }, 
+                        "type": "user", 
+                        "id": "4f22808fe4b063d4fe73b49b", 
+                        "createdAt": 1327661199, 
+                        "user": {
+                           "gender": "none", 
+                           "type": "page", 
+                           "id": "15331066", 
+                           "firstName": "CityMap Sicilia", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/15331066-BLXO3MEHSK0UVORS.jpg"
+                           }
+                        }
+                     }, 
+                     {
+                        "lang": "it", 
+                        "todo": {
+                           "count": 0
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/4f08cdeae4b0c3ff84595773", 
+                        "agreeCount": 1, 
+                        "text": "Da ammirare la Cattedrale recentemente restaurata!", 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "likes": {
+                           "count": 1, 
+                           "groups": [
+                              {
+                                 "count": 1, 
+                                 "items": [
+                                    {
+                                       "lastName": "Degli Elefanti", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/77186304-AA2WZOY3Y3L4FXCD"
+                                       }, 
+                                       "id": "77186304", 
+                                       "firstName": "Ostello", 
+                                       "gender": "none"
+                                    }
+                                 ], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "1 like"
+                        }, 
+                        "type": "user", 
+                        "id": "4f08cdeae4b0c3ff84595773", 
+                        "createdAt": 1325977066, 
+                        "user": {
+                           "gender": "none", 
+                           "type": "page", 
+                           "id": "19414312", 
+                           "firstName": "Hotel Villa Romeo", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/PPKCSOJ14DRY3C44.jpg"
+                           }
+                        }
+                     }, 
+                     {
+                        "lang": "it", 
+                        "todo": {
+                           "count": 1
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/4cf535a82eb25941f8f3bda1", 
+                        "agreeCount": 1, 
+                        "url": "http://wiki-racconti.com/storie/glocali/gennaio-ancora-in-citta/", 
+                        "text": "per lo pi\u00f9 studenti provenienti da tutta la provincia che chiacchieravano di libri e lezioni, sforzandosi di celare quell'inflessione dialettale dalle vocali troppo aperte", 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "likes": {
+                           "count": 1, 
+                           "groups": [
+                              {
+                                 "count": 1, 
+                                 "items": [
+                                    {
+                                       "lastName": "D'Alcamo", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/30023482-3DGAIPTY5S4M0TPC.jpg"
+                                       }, 
+                                       "id": "30023482", 
+                                       "firstName": "Giuseppe", 
+                                       "gender": "male"
+                                    }
+                                 ], 
+                                 "type": "others"
+                              }
+                           ], 
+                           "summary": "1 like"
+                        }, 
+                        "type": "user", 
+                        "id": "4cf535a82eb25941f8f3bda1", 
+                        "createdAt": 1291138472, 
+                        "user": {
+                           "lastName": "Vinti", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/YDCFDKH30F4EPN0W.jpg"
+                           }, 
+                           "id": "3905352", 
+                           "firstName": "Elena", 
+                           "gender": "female"
+                        }
+                     }, 
+                     {
+                        "lang": "en", 
+                        "todo": {
+                           "count": 1
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/59f578f3f79faa6f9dab3c31", 
+                        "photourl": "https://igx.4sqi.net/img/general/original/51846478_kMK8a3v8fFbEu7X1RCVLnbtJaqqno9LOh2lzBnrdz2o.jpg", 
+                        "photo": {
+                           "suffix": "/51846478_kMK8a3v8fFbEu7X1RCVLnbtJaqqno9LOh2lzBnrdz2o.jpg", 
+                           "width": 1920, 
+                           "visibility": "public", 
+                           "height": 1271, 
+                           "source": {
+                              "url": "https://foursquare.com/download/#/iphone", 
+                              "name": "Foursquare for iOS"
+                           }, 
+                           "prefix": "https://igx.4sqi.net/img/general/", 
+                           "id": "59f578f564c8e151cc0c4218", 
+                           "createdAt": 1509259509
+                        }, 
+                        "agreeCount": 0, 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "authorInteractionType": "liked", 
+                        "likes": {
+                           "count": 0, 
+                           "groups": []
+                        }, 
+                        "text": "Lovely lovely place. Astonishing views. And very crowdy", 
+                        "type": "user", 
+                        "id": "59f578f3f79faa6f9dab3c31", 
+                        "createdAt": 1509259507, 
+                        "user": {
+                           "gender": "male", 
+                           "id": "51846478", 
+                           "firstName": "Ponuponas", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/LMTBFFP1C3FKLF2E.jpg"
+                           }
+                        }
+                     }, 
+                     {
+                        "lang": "tr", 
+                        "todo": {
+                           "count": 0
+                        }, 
+                        "canonicalUrl": "https://foursquare.com/item/59dfba411543c750b4719987", 
+                        "agreeCount": 0, 
+                        "text": "G\u00fczel atmosfer, kalite yemek", 
+                        "logView": true, 
+                        "disagreeCount": 0, 
+                        "likes": {
+                           "count": 0, 
+                           "groups": []
+                        }, 
+                        "type": "user", 
+                        "id": "59dfba411543c750b4719987", 
+                        "createdAt": 1507834433, 
+                        "user": {
+                           "lastName": "Bengi", 
+                           "photo": {
+                              "default": true, 
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/blank_boy.png"
+                           }, 
+                           "id": "78773491", 
+                           "firstName": "Hakan", 
+                           "gender": "male"
+                        }
+                     }
+                  ], 
+                  "type": "others", 
+                  "name": "All tips"
+               }
+            ]
+         }, 
+         "bestPhoto": {
+            "suffix": "/SioHnE0fLv0-82R_ImY_owe-QXvTMVIOe5aU7mxi5E4.jpg", 
+            "width": 720, 
+            "visibility": "public", 
+            "height": 540, 
+            "source": {
+               "url": "https://foursquare.com/download/#/iphone", 
+               "name": "Foursquare for iOS"
+            }, 
+            "prefix": "https://igx.4sqi.net/img/general/", 
+            "id": "502fa2a2e4b0c65b4adfd80d", 
+            "createdAt": 1345299106
+         }, 
+         "listed": {
+            "count": 125, 
+            "groups": [
+               {
+                  "count": 125, 
+                  "items": [
+                     {
+                        "description": "This Summer our Light Blue team will be on tour throughout the streets and places of Italy: find our guys and get your free sample of Dolce&Gabbana Light Blue. Here're dates and locations.", 
+                        "collaborative": false, 
+                        "url": "/p/dolcegabbana/4865116/list/light-blue-summer", 
+                        "photo": {
+                           "suffix": "/crDaOVJbHWnMQdcbtSd4xqIkHsG0XndEuT2XE30DFl0.jpg", 
+                           "visibility": "public", 
+                           "height": 720, 
+                           "width": 537, 
+                           "prefix": "https://igx.4sqi.net/img/general/", 
+                           "user": {
+                              "lastName": "F", 
+                              "photo": {
+                                 "prefix": "https://igx.4sqi.net/img/user/", 
+                                 "suffix": "/1912924-ECIRQZGW4MMEN4GN.jpg"
+                              }, 
+                              "id": "1912924", 
+                              "firstName": "Maria Beatrice", 
+                              "gender": "female"
+                           }, 
+                           "id": "50079ca4e4b01c29f42b6327", 
+                           "createdAt": 1342676132
+                        }, 
+                        "logView": true, 
+                        "editable": false, 
+                        "listItems": {
+                           "count": 73, 
+                           "items": [
+                              {
+                                 "photo": {
+                                    "suffix": "/ARG20TOSCWIJNAFAXBWHZLFXYUJZ14VP4DPGPST2J4SOOSO2.jpg", 
+                                    "visibility": "public", 
+                                    "height": 540, 
+                                    "width": 540, 
+                                    "prefix": "https://igx.4sqi.net/img/general/", 
+                                    "user": {
+                                       "lastName": "C", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/SUMIRE4F2IKDU0E3.jpg"
+                                       }, 
+                                       "id": "4018404", 
+                                       "firstName": "Tania", 
+                                       "gender": "female"
+                                    }, 
+                                    "id": "4d2730d7ed9ca340cde3f3e0", 
+                                    "createdAt": 1294414039
+                                 }, 
+                                 "id": "v4cf16112f98ba090661cc873", 
+                                 "createdAt": 1374138123
+                              }
+                           ]
+                        }, 
+                        "createdAt": 1372776635, 
+                        "public": true, 
+                        "followers": {
+                           "count": 144
+                        }, 
+                        "user": {
+                           "gender": "none", 
+                           "type": "chain", 
+                           "id": "4865116", 
+                           "firstName": "Dolce&Gabbana", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/BJJMJMTEVDI4Z2J0.png"
+                           }
+                        }, 
+                        "updatedAt": 1403966672, 
+                        "type": "others", 
+                        "id": "51d2e8bb498ea5edb4f1b557", 
+                        "canonicalUrl": "https://foursquare.com/p/dolcegabbana/4865116/list/light-blue-summer", 
+                        "name": "Light Blue Summer"
+                     }, 
+                     {
+                        "description": "Segui questa lista per contribuire alla creazione del city badge della citt\u00e0 di Catania!!! #4sqcities", 
+                        "collaborative": false, 
+                        "url": "/sebastiano84/list/tra-mare-e-etna--catania-4sqcities", 
+                        "photo": {
+                           "suffix": "/IOZ5MR4PEF1B5ABE001G45SXP1LBGEKFLGTVDHMMAJ2BAB1B.png", 
+                           "visibility": "public", 
+                           "height": 300, 
+                           "width": 630, 
+                           "prefix": "https://igx.4sqi.net/img/general/", 
+                           "user": {
+                              "gender": "none", 
+                              "type": "page", 
+                              "id": "15331066", 
+                              "firstName": "CityMap Sicilia", 
+                              "photo": {
+                                 "prefix": "https://igx.4sqi.net/img/user/", 
+                                 "suffix": "/15331066-BLXO3MEHSK0UVORS.jpg"
+                              }
+                           }, 
+                           "id": "4f0d752c7bebfc145ff8e63c", 
+                           "createdAt": 1326282028
+                        }, 
+                        "editable": false, 
+                        "listItems": {
+                           "count": 50, 
+                           "items": [
+                              {
+                                 "photo": {
+                                    "suffix": "/EKOXVOVE4ZJIE3MEF1P2BH5E1ZWIYAIIYW5U02UCRO0WHFN1.jpg", 
+                                    "visibility": "public", 
+                                    "height": 537, 
+                                    "width": 720, 
+                                    "prefix": "https://igx.4sqi.net/img/general/", 
+                                    "user": {
+                                       "lastName": "Ap", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/1IZTDF55QQUAB1B3.jpg"
+                                       }, 
+                                       "id": "5648151", 
+                                       "firstName": "Delfo", 
+                                       "gender": "male"
+                                    }, 
+                                    "id": "4d8e699131732da14434de35", 
+                                    "createdAt": 1301178769
+                                 }, 
+                                 "id": "t4f5fe0e6e4b039b6750934d5", 
+                                 "createdAt": 1331665251
+                              }
+                           ]
+                        }, 
+                        "createdAt": 1331661375, 
+                        "public": true, 
+                        "followers": {
+                           "count": 426
+                        }, 
+                        "user": {
+                           "gender": "male", 
+                           "id": "3245244", 
+                           "firstName": "Sebastian", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/3245244-BPS4QA2HH1TUEFR2"
+                           }
+                        }, 
+                        "updatedAt": 1391367889, 
+                        "type": "others", 
+                        "id": "4f5f8a3fe4b06f48bfba3cfc", 
+                        "canonicalUrl": "https://foursquare.com/sebastiano84/list/tra-mare-e-etna--catania-4sqcities", 
+                        "name": "Tra mare e Etna - Catania #4sqcities"
+                     }, 
+                     {
+                        "description": "", 
+                        "collaborative": false, 
+                        "url": "/p/comedas/15165224/list/sicily-the-most-beautiful-places-to-see-and-enjoy", 
+                        "photo": {
+                           "suffix": "/R1U4RAGBINKZYJKQQYK1ZQQT3MYE5RZLJ1IUJZJWOMUGM35W.jpg", 
+                           "visibility": "public", 
+                           "height": 640, 
+                           "width": 480, 
+                           "prefix": "https://igx.4sqi.net/img/general/", 
+                           "user": {
+                              "lastName": "Piccinato", 
+                              "photo": {
+                                 "prefix": "https://igx.4sqi.net/img/user/", 
+                                 "suffix": "/OS4ANBBL5L2334MS.jpg"
+                              }, 
+                              "id": "8580922", 
+                              "firstName": "Alessandro", 
+                              "gender": "male"
+                           }, 
+                           "id": "4e5bbf0718a8c20475294ecf", 
+                           "createdAt": 1314635527
+                        }, 
+                        "logView": true, 
+                        "editable": false, 
+                        "listItems": {
+                           "count": 17, 
+                           "items": [
+                              {
+                                 "photo": {
+                                    "suffix": "/EKOXVOVE4ZJIE3MEF1P2BH5E1ZWIYAIIYW5U02UCRO0WHFN1.jpg", 
+                                    "visibility": "public", 
+                                    "height": 537, 
+                                    "width": 720, 
+                                    "prefix": "https://igx.4sqi.net/img/general/", 
+                                    "user": {
+                                       "lastName": "Ap", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/1IZTDF55QQUAB1B3.jpg"
+                                       }, 
+                                       "id": "5648151", 
+                                       "firstName": "Delfo", 
+                                       "gender": "male"
+                                    }, 
+                                    "id": "4d8e699131732da14434de35", 
+                                    "createdAt": 1301178769
+                                 }, 
+                                 "id": "v4cf16112f98ba090661cc873", 
+                                 "createdAt": 1318937961
+                              }
+                           ]
+                        }, 
+                        "createdAt": 1318937391, 
+                        "public": true, 
+                        "followers": {
+                           "count": 28
+                        }, 
+                        "user": {
+                           "gender": "none", 
+                           "type": "page", 
+                           "id": "15165224", 
+                           "firstName": "CoMedAS", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/ANVT2JFB0KWOPBVK.png"
+                           }
+                        }, 
+                        "updatedAt": 1345049278, 
+                        "type": "others", 
+                        "id": "4e9d632f77c815a0f5bc9ece", 
+                        "canonicalUrl": "https://foursquare.com/p/comedas/15165224/list/sicily-the-most-beautiful-places-to-see-and-enjoy", 
+                        "name": "Sicily: The most beautiful places to see and enjoy"
+                     }, 
+                     {
+                        "description": "Catania stupisce per i suoi contrasti: luoghi di interesse storico, palazzi liberty, chiese barocche ed un vulcano potente che sovrasta la Citt\u00e0. Leggi tutto su www.city-maps.it", 
+                        "collaborative": false, 
+                        "url": "/citymapsicilia/list/citymap--art-tour", 
+                        "photo": {
+                           "suffix": "/ARG20TOSCWIJNAFAXBWHZLFXYUJZ14VP4DPGPST2J4SOOSO2.jpg", 
+                           "visibility": "public", 
+                           "height": 540, 
+                           "width": 540, 
+                           "prefix": "https://igx.4sqi.net/img/general/", 
+                           "user": {
+                              "lastName": "C", 
+                              "photo": {
+                                 "prefix": "https://igx.4sqi.net/img/user/", 
+                                 "suffix": "/SUMIRE4F2IKDU0E3.jpg"
+                              }, 
+                              "id": "4018404", 
+                              "firstName": "Tania", 
+                              "gender": "female"
+                           }, 
+                           "id": "4d2730d7ed9ca340cde3f3e0", 
+                           "createdAt": 1294414039
+                        }, 
+                        "logView": true, 
+                        "editable": false, 
+                        "listItems": {
+                           "count": 8, 
+                           "items": [
+                              {
+                                 "photo": {
+                                    "suffix": "/ARG20TOSCWIJNAFAXBWHZLFXYUJZ14VP4DPGPST2J4SOOSO2.jpg", 
+                                    "visibility": "public", 
+                                    "height": 540, 
+                                    "width": 540, 
+                                    "prefix": "https://igx.4sqi.net/img/general/", 
+                                    "user": {
+                                       "lastName": "C", 
+                                       "photo": {
+                                          "prefix": "https://igx.4sqi.net/img/user/", 
+                                          "suffix": "/SUMIRE4F2IKDU0E3.jpg"
+                                       }, 
+                                       "id": "4018404", 
+                                       "firstName": "Tania", 
+                                       "gender": "female"
+                                    }, 
+                                    "id": "4d2730d7ed9ca340cde3f3e0", 
+                                    "createdAt": 1294414039
+                                 }, 
+                                 "id": "t4ea14fb0722ec75addc928ad", 
+                                 "createdAt": 1319194455
+                              }
+                           ]
+                        }, 
+                        "createdAt": 1319194392, 
+                        "public": true, 
+                        "entities": [
+                           {
+                              "indices": [
+                                 161, 
+                                 177
+                              ], 
+                              "object": {
+                                 "url": "http://www.city-maps.it"
+                              }, 
+                              "type": "url"
+                           }
+                        ], 
+                        "followers": {
+                           "count": 34
+                        }, 
+                        "user": {
+                           "gender": "none", 
+                           "type": "page", 
+                           "id": "15331066", 
+                           "firstName": "CityMap Sicilia", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/15331066-BLXO3MEHSK0UVORS.jpg"
+                           }
+                        }, 
+                        "updatedAt": 1360670079, 
+                        "type": "others", 
+                        "id": "4ea14f18e5facb29c6c39d75", 
+                        "canonicalUrl": "https://foursquare.com/citymapsicilia/list/citymap--art-tour", 
+                        "name": "CityMap - Art Tour"
+                     }
+                  ], 
+                  "type": "others", 
+                  "name": "Lists from other people"
+               }
+            ]
+         }, 
+         "canonicalUrl": "https://foursquare.com/v/piazza-duomo/4cf16112f98ba090661cc873", 
+         "photos": {
+            "count": 739, 
+            "groups": [
+               {
+                  "count": 739, 
+                  "items": [
+                     {
+                        "suffix": "/SioHnE0fLv0-82R_ImY_owe-QXvTMVIOe5aU7mxi5E4.jpg", 
+                        "width": 720, 
+                        "visibility": "public", 
+                        "height": 540, 
+                        "source": {
+                           "url": "https://foursquare.com/download/#/iphone", 
+                           "name": "Foursquare for iOS"
+                        }, 
+                        "prefix": "https://igx.4sqi.net/img/general/", 
+                        "user": {
+                           "lastName": "vitali", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/TGZ0PCR3OJVO4WM4.jpg"
+                           }, 
+                           "id": "22692897", 
+                           "firstName": "stefano", 
+                           "gender": "male"
+                        }, 
+                        "id": "502fa2a2e4b0c65b4adfd80d", 
+                        "createdAt": 1345299106
+                     }, 
+                     {
+                        "suffix": "/sW30Dfnq9zWeFZgQHVqPFfKWFKO4MqrvrkhfA0LQSkc.jpg", 
+                        "width": 612, 
+                        "visibility": "public", 
+                        "height": 612, 
+                        "source": {
+                           "url": "http://instagram.com", 
+                           "name": "Instagram"
+                        }, 
+                        "prefix": "https://igx.4sqi.net/img/general/", 
+                        "user": {
+                           "lastName": "Lofyo", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/YNIIVYOWESAX2DJJ.jpg"
+                           }, 
+                           "id": "12455353", 
+                           "firstName": "Jacopo", 
+                           "gender": "male"
+                        }, 
+                        "id": "503abe51e4b04869779c8850", 
+                        "createdAt": 1346027089
+                     }, 
+                     {
+                        "suffix": "/aa2TPWmqcPOargmHsDvrWlctPJj0Dkeai8XnRmj9tqM.jpg", 
+                        "width": 431, 
+                        "visibility": "public", 
+                        "height": 720, 
+                        "source": {
+                           "url": "https://foursquare.com/download/#/android", 
+                           "name": "Foursquare for Android"
+                        }, 
+                        "prefix": "https://igx.4sqi.net/img/general/", 
+                        "user": {
+                           "gender": "male", 
+                           "id": "3739567", 
+                           "firstName": "realloc", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/HJOTJFGMW3RMKBAY.jpg"
+                           }
+                        }, 
+                        "id": "4fa42b33e4b038e6a1727bdd", 
+                        "createdAt": 1336159027
+                     }, 
+                     {
+                        "suffix": "/38480806_K2YLV9dsasXfKRSDAOFh0sFn186CwGkWBXFbhW7_eMA.jpg", 
+                        "width": 612, 
+                        "visibility": "public", 
+                        "height": 612, 
+                        "source": {
+                           "url": "http://instagram.com", 
+                           "name": "Instagram"
+                        }, 
+                        "prefix": "https://igx.4sqi.net/img/general/", 
+                        "user": {
+                           "lastName": "De Ang", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/SNGVWQ2X5CSYE4KA.jpg"
+                           }, 
+                           "id": "38480806", 
+                           "firstName": "Guido", 
+                           "gender": "male"
+                        }, 
+                        "id": "51f8f326498e4d52a6ab99f2", 
+                        "createdAt": 1375269670
+                     }, 
+                     {
+                        "suffix": "/38038872_VpA8KjKT5lncSqsudEEIMIPFRAIbEKNoqg32uBBAbNU.jpg", 
+                        "width": 960, 
+                        "visibility": "public", 
+                        "height": 720, 
+                        "source": {
+                           "url": "https://foursquare.com/download/#/android", 
+                           "name": "Foursquare for Android"
+                        }, 
+                        "prefix": "https://igx.4sqi.net/img/general/", 
+                        "user": {
+                           "lastName": "Barabash", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/HGEIXRVKCZ0ZD5KD.jpg"
+                           }, 
+                           "id": "38038872", 
+                           "firstName": "Dmitri", 
+                           "gender": "male"
+                        }, 
+                        "id": "51839cd3498e5906a5870b04", 
+                        "createdAt": 1367579859
+                     }, 
+                     {
+                        "suffix": "/27767443_0RIMKOoHHtbYfmNbf3g1OVVdgCWcQF8HnZxuYnFEGG0.jpg", 
+                        "width": 720, 
+                        "visibility": "public", 
+                        "height": 540, 
+                        "source": {
+                           "url": "https://foursquare.com/download/#/android", 
+                           "name": "Foursquare for Android"
+                        }, 
+                        "prefix": "https://igx.4sqi.net/img/general/", 
+                        "user": {
+                           "lastName": "Iotti", 
+                           "photo": {
+                              "prefix": "https://igx.4sqi.net/img/user/", 
+                              "suffix": "/27767443-FTP5UFPJ4AYLBO1E.jpg"
+                           }, 
+                           "id": "27767443", 
+                           "firstName": "Giacomo", 
+                           "gender": "male"
+                        }, 
+                        "id": "5103104ae4b022bff46448b7", 
+                        "createdAt": 1359155274
+                     }
+                  ], 
+                  "type": "venue", 
+                  "name": "Venue photos"
+               }
+            ]
+         }, 
+         "attributes": {
+            "groups": []
+         }, 
+         "stats": {
+            "tipCount": 39, 
+            "checkinsCount": 5385, 
+            "visitsCount": 8473, 
+            "usersCount": 5538
+         }, 
+         "dislike": false, 
+         "categories": [
+            {
+               "pluralName": "Plazas", 
+               "primary": true, 
+               "name": "Plaza", 
+               "shortName": "Plaza", 
+               "id": "4bf58dd8d48988d164941735", 
+               "icon": {
+                  "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+                  "suffix": ".png"
+               }
+            }
+         ], 
+         "ok": false, 
+         "name": "Piazza Duomo", 
+         "venueChains": [], 
+         "phrases": [
+            {
+               "sample": {
+                  "entities": [
+                     {
+                        "indices": [
+                           26, 
+                           44
+                        ], 
+                        "type": "keyPhrase"
+                     }
+                  ], 
+                  "text": "... trova quello che \u00e8 il simbolo di Catania, \"u Liotru\"; statua in pietra lavica..."
+               }, 
+               "phrase": "simbolo di catania", 
+               "count": 3
+            }, 
+            {
+               "sample": {
+                  "entities": [
+                     {
+                        "indices": [
+                           0, 
+                           10
+                        ], 
+                        "type": "keyPhrase"
+                     }
+                  ], 
+                  "text": "L'elefante al centro della piazza nasconde un..."
+               }, 
+               "phrase": "l'elefante", 
+               "count": 2
+            }, 
+            {
+               "sample": {
+                  "entities": [
+                     {
+                        "indices": [
+                           24, 
+                           33
+                        ], 
+                        "type": "keyPhrase"
+                     }
+                  ], 
+                  "text": "... Chierici. Al centro 'U LIOTRU, simbolo di Catania!"
+               }, 
+               "phrase": "'u liotru", 
+               "count": 3
+            }
+         ], 
+         "specials": {
+            "count": 0, 
+            "items": []
+         }, 
+         "ratingColor": "00B551", 
+         "ratingSignals": 256, 
+         "timeZone": "Europe/Rome", 
+         "inbox": {
+            "count": 0, 
+            "items": []
+         }
+      }
+   }
+}
