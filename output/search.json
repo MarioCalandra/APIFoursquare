@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "code": 200, 
+    "requestId": "5a6b6699351e3d6a2b03eee3"
+  }, 
+  "response": {
+    "venues": [
+      {
+        "verified": false, 
+        "name": "Villa Bellini", 
+        "referralId": "v-1516988057", 
+        "venueChains": [], 
+        "specials": {
+          "count": 0, 
+          "items": []
+        }, 
+        "contact": {}, 
+        "hasPerk": false, 
+        "location": {
+          "city": "Catania", 
+          "labeledLatLngs": [
+            {
+              "lat": 37.510723315208594, 
+              "lng": 15.084029541786151, 
+              "label": "display"
+            }
+          ], 
+          "cc": "IT", 
+          "country": "Italia", 
+          "state": "Sicilia", 
+          "formattedAddress": [
+            "Via Etnea 260", 
+            "Catania Sicilia", 
+            "Italia"
+          ], 
+          "address": "Via Etnea 260", 
+          "lat": 37.510723315208594, 
+          "lng": 15.084029541786151
+        }, 
+        "beenHere": {
+          "lastCheckinExpiredAt": 0
+        }, 
+        "stats": {
+          "tipCount": 46, 
+          "checkinsCount": 3488, 
+          "usersCount": 1664
+        }, 
+        "id": "4bd7530b304fce72736133ab", 
+        "categories": [
+          {
+            "pluralName": "Sculpture Gardens", 
+            "primary": true, 
+            "name": "Sculpture Garden", 
+            "shortName": "Sculpture", 
+            "id": "4bf58dd8d48988d166941735", 
+            "icon": {
+              "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/sculpture_", 
+              "suffix": ".png"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
