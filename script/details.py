@@ -3,8 +3,8 @@
 
 import json, requests
 
-client_id = 'HY5VTLYMVXHH0SOTC2MR2PGZTIGZJ2ZQN4T4RHDADQNWQWLL'
-client_secret = 'RLZUPWGYNKKLJN13WUNGFTI4SQJKWQFHRPCZ1RVYID0I2BBO'
+client_id = 'SMM'
+client_secret = 'SMM'
 versioning = '20180122'
 
 venueid = '4cf16112f98ba090661cc873'	# venueid di Piazza Duomo
