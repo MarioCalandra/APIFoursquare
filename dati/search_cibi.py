@@ -2,8 +2,8 @@ import json, requests
 from jsonFSmng import json_search
 from charts import ColumnChart, PieChart
 
-client_id = 'HY5VTLYMVXHH0SOTC2MR2PGZTIGZJ2ZQN4T4RHDADQNWQWLL'
-client_secret = 'RLZUPWGYNKKLJN13WUNGFTI4SQJKWQFHRPCZ1RVYID0I2BBO'
+client_id = 'SMM'
+client_secret = 'SMM'
 versioning = '20180122'
 
 category = '4d4b7105d754a06374d81259' #categoria cibi
