@@ -1,0 +1,3275 @@
+[
+   {
+      "verified": true, 
+      "name": "Pasticceria Savia", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://www.savia.it", 
+      "storeId": "", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095322335", 
+         "facebookUsername": "saviact", 
+         "facebook": "113486728713946", 
+         "formattedPhone": "+39 095 322335", 
+         "facebookName": "Pasticceria Savia Catania"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51079611077861, 
+               "lng": 15.085471203303749, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95131", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Etnea 300/302/304 (Via Umberto 2/4/6)", 
+            "95131 Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Via Umberto 2/4/6", 
+         "address": "Via Etnea 300/302/304", 
+         "lat": 37.51079611077861, 
+         "lng": 15.085471203303749
+      }, 
+      "venuePage": {
+         "id": "70620215"
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 120, 
+         "checkinsCount": 2250, 
+         "usersCount": 1531
+      }, 
+      "id": "4c07e032ffb8c9b6af556761", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": true, 
+      "name": "C&G - Cioccolato e Gelato", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://www.cioccolatoegelato.com", 
+      "storeId": "", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "facebookName": "C&G Cioccolato e Gelato", 
+         "twitter": "ceg2006", 
+         "phone": "+39095446001", 
+         "facebook": "191443070875033", 
+         "formattedPhone": "+39 095 446001", 
+         "facebookUsername": "cioccolatoegelato"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.521100524519525, 
+               "lng": 15.088634813847825, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95128", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Abramo Lincoln, 21", 
+            "95128 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Abramo Lincoln, 21", 
+         "lat": 37.521100524519525, 
+         "lng": 15.088634813847825
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 69, 
+         "checkinsCount": 2207, 
+         "usersCount": 784
+      }, 
+      "id": "4c3d707f7d002d7f9fceaf18", 
+      "categories": [
+         {
+            "pluralName": "Dessert Shops", 
+            "primary": true, 
+            "name": "Dessert Shop", 
+            "shortName": "Desserts", 
+            "id": "4bf58dd8d48988d1d0941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "FUD", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://www.fudcatania.it", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+390957153518", 
+         "facebookUsername": "fudcatania", 
+         "facebook": "359042560837936", 
+         "formattedPhone": "+39 095 715 3518", 
+         "facebookName": "FUD Bottega Sicula"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51039888607638, 
+               "lng": 15.086465199707254, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95129", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Santa Filomena, 35", 
+            "95129 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Santa Filomena, 35", 
+         "lat": 37.51039888607638, 
+         "lng": 15.086465199707254
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 140, 
+         "checkinsCount": 2195, 
+         "usersCount": 1221
+      }, 
+      "id": "50ccdc26e4b01c69e74d93a1", 
+      "categories": [
+         {
+            "pluralName": "Burger Joints", 
+            "primary": true, 
+            "name": "Burger Joint", 
+            "shortName": "Burgers", 
+            "id": "4bf58dd8d48988d16c941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Caff\u00e8 Europa", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095372655", 
+         "formattedPhone": "+39 095 372655"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51663115233874, 
+               "lng": 15.104758331459578, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95129", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Corso Italia 302 (Piazza Europa)", 
+            "95129 Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Piazza Europa", 
+         "address": "Corso Italia 302", 
+         "lat": 37.51663115233874, 
+         "lng": 15.104758331459578
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 30, 
+         "checkinsCount": 1714, 
+         "usersCount": 706
+      }, 
+      "id": "4bf798b95317a5935e5bfe7e", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Wine Bar Razmataz", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095311893", 
+         "facebook": "104587599615427", 
+         "formattedPhone": "+39 095 311893", 
+         "facebookName": "WINE BAR Razmataz"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.506376106068416, 
+               "lng": 15.08724315559329, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Montesano 17/19 (Via Patern\u00f2 32)", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Via Patern\u00f2 32", 
+         "address": "Via Montesano 17/19", 
+         "lat": 37.506376106068416, 
+         "lng": 15.08724315559329
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 53, 
+         "checkinsCount": 1556, 
+         "usersCount": 982
+      }, 
+      "id": "4d978e0baf3d236a023127c7", 
+      "categories": [
+         {
+            "pluralName": "Wine Bars", 
+            "primary": true, 
+            "name": "Wine Bar", 
+            "shortName": "Wine Bar", 
+            "id": "4bf58dd8d48988d123941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/winery_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Pasticceria Spinella", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://www.pasticceriaspinella.it", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095327247", 
+         "formattedPhone": "+39 095 327247"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51074226750352, 
+               "lng": 15.085462445171036, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95131", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Etnea, 292/298", 
+            "95131 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Etnea, 292/298", 
+         "lat": 37.51074226750352, 
+         "lng": 15.085462445171036
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 49, 
+         "checkinsCount": 1463, 
+         "usersCount": 1059
+      }, 
+      "id": "4cf127a294feb1f7518215ba", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Laboratorio Via Napoli di D'Arrigo Fabio & C. S.n.c.", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095448854", 
+         "formattedPhone": "+39 095 448854"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.52056353693807, 
+               "lng": 15.09397650351832, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95127", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Napoli 55", 
+            "95127 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Napoli 55", 
+         "lat": 37.52056353693807, 
+         "lng": 15.09397650351832
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 42, 
+         "checkinsCount": 1382, 
+         "usersCount": 385
+      }, 
+      "id": "4d129298ffa1224be6349aad", 
+      "categories": [
+         {
+            "pluralName": "Bakeries", 
+            "primary": true, 
+            "name": "Bakery", 
+            "shortName": "Bakery", 
+            "id": "4bf58dd8d48988d16a941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Bar Ernesto", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://www.ernestocatania.it", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095491680", 
+         "formattedPhone": "+39 095 491680"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.5218, 
+               "lng": 15.11416, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95127", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Viale Ruggero di Lauria, 91/93", 
+            "95127 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Viale Ruggero di Lauria, 91/93", 
+         "lat": 37.5218, 
+         "lng": 15.11416
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 34, 
+         "checkinsCount": 1341, 
+         "usersCount": 671
+      }, 
+      "id": "4c8bbd7ac37a6dcb0374f07a", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": true, 
+      "name": "Gran Moritz Pasticceria & Gelateria", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://www.granmoritz.it", 
+      "storeId": "", 
+      "hereNow": {
+         "count": 1, 
+         "groups": [
+            {
+               "count": 1, 
+               "items": [], 
+               "type": "others", 
+               "name": "Other people here"
+            }
+         ], 
+         "summary": "One other person is here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "facebookName": "Pasticceria & Gelateria Siciliana Gran Moritz", 
+         "twitter": "granmoritz", 
+         "phone": "+39095437282", 
+         "facebook": "309753939141031", 
+         "formattedPhone": "+39 095 437282", 
+         "facebookUsername": "PasticceriaGelateriaSicilianaGranMoritz"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.52191967995835, 
+               "lng": 15.090381539342193, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95128", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Viale Raffaello Sanzio 10 (Parco Falcone)", 
+            "95128 Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Parco Falcone", 
+         "address": "Viale Raffaello Sanzio 10", 
+         "lat": 37.52191967995835, 
+         "lng": 15.090381539342193
+      }, 
+      "venuePage": {
+         "id": "43023756"
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 19, 
+         "checkinsCount": 1122, 
+         "usersCount": 236
+      }, 
+      "id": "50c4b7f272daf1c320d7319c", 
+      "categories": [
+         {
+            "pluralName": "Dessert Shops", 
+            "primary": true, 
+            "name": "Dessert Shop", 
+            "shortName": "Desserts", 
+            "id": "4bf58dd8d48988d1d0941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Caff\u00e8 del Duomo", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50242804943983, 
+               "lng": 15.087061236860881, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95121", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Duomo 11", 
+            "95121 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Duomo 11", 
+         "lat": 37.50242804943983, 
+         "lng": 15.087061236860881
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 25, 
+         "checkinsCount": 1038, 
+         "usersCount": 888
+      }, 
+      "id": "4c054124f56c2d7ff95f1f66", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Chiosco Giammona", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51157858609115, 
+               "lng": 15.089736350154572, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza V. Emanuele III", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza V. Emanuele III", 
+         "lat": 37.51157858609115, 
+         "lng": 15.089736350154572
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 22, 
+         "checkinsCount": 1034, 
+         "usersCount": 322
+      }, 
+      "id": "4c8a78fea92fa0938fa791bf", 
+      "categories": [
+         {
+            "pluralName": "Food Stands", 
+            "primary": true, 
+            "name": "Food Stand", 
+            "shortName": "Food Stand", 
+            "id": "56aa371be4b08b9a8d57350b", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/travel/movingtarget_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Prestipino Caf\u00e8", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50320838685494, 
+               "lng": 15.087254269248634, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Etnea 28-30", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Etnea 28-30", 
+         "lat": 37.50320838685494, 
+         "lng": 15.087254269248634
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 24, 
+         "checkinsCount": 901, 
+         "usersCount": 749
+      }, 
+      "id": "4f05a9886c25095787021f85", 
+      "categories": [
+         {
+            "pluralName": "Coffee Shops", 
+            "primary": true, 
+            "name": "Coffee Shop", 
+            "shortName": "Coffee Shop", 
+            "id": "4bf58dd8d48988d1e0931735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/coffeeshop_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Bar Magr\u00ec", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095439566", 
+         "formattedPhone": "+39 095 439566"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51170370120101, 
+               "lng": 15.074905785792945, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Viale Mario Rapisardi 80 (Via Giovanni Lavaggi)", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Via Giovanni Lavaggi", 
+         "address": "Viale Mario Rapisardi 80", 
+         "lat": 37.51170370120101, 
+         "lng": 15.074905785792945
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 10, 
+         "checkinsCount": 893, 
+         "usersCount": 269
+      }, 
+      "id": "4cdffa957e2e236a857d881b", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Cioccolato Caff\u00e9", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://www.cioccolatocaffe.it", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095498640", 
+         "formattedPhone": "+39 095 498640"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.522994108705895, 
+               "lng": 15.11587549010919, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Viale Ruggero di Lauria 129", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Viale Ruggero di Lauria 129", 
+         "lat": 37.522994108705895, 
+         "lng": 15.11587549010919
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 33, 
+         "checkinsCount": 850, 
+         "usersCount": 430
+      }, 
+      "id": "4e3bc50b52b1a04aff00b007", 
+      "categories": [
+         {
+            "pluralName": "Dessert Shops", 
+            "primary": true, 
+            "name": "Dessert Shop", 
+            "shortName": "Desserts", 
+            "id": "4bf58dd8d48988d1d0941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Bar Alecci", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Gravina di Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.55913869300417, 
+               "lng": 15.067232454368158, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95030", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Antonio Gramsci 62", 
+            "95030 Gravina di Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Antonio Gramsci 62", 
+         "lat": 37.55913869300417, 
+         "lng": 15.067232454368158
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 37, 
+         "checkinsCount": 819, 
+         "usersCount": 257
+      }, 
+      "id": "4c68ec1135d3be9ab9131e06", 
+      "categories": [
+         {
+            "pluralName": "Ice Cream Shops", 
+            "primary": true, 
+            "name": "Ice Cream Shop", 
+            "shortName": "Ice Cream", 
+            "id": "4bf58dd8d48988d1c9941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/icecream_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Cutilisci", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095372558", 
+         "formattedPhone": "+39 095 372558"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.52006885943929, 
+               "lng": 15.110264373824116, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95100", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via San Giovanni Li Cuti 69", 
+            "95100 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via San Giovanni Li Cuti 69", 
+         "lat": 37.52006885943929, 
+         "lng": 15.110264373824116
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 35, 
+         "checkinsCount": 798, 
+         "usersCount": 406
+      }, 
+      "id": "4c1c81c1e9c4ef3bbdd345aa", 
+      "categories": [
+         {
+            "pluralName": "Pizza Places", 
+            "primary": true, 
+            "name": "Pizza Place", 
+            "shortName": "Pizza", 
+            "id": "4bf58dd8d48988d1ca941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Pasticceria Quaranta", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+390957124893", 
+         "formattedPhone": "+39 095 712 4893"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.530765386980036, 
+               "lng": 15.111936968259707, 
+               "label": "display"
+            }
+         ], 
+         "neighborhood": "Ognina", 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Mancini Battaglia 17", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Mancini Battaglia 17", 
+         "lat": 37.530765386980036, 
+         "lng": 15.111936968259707
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 19, 
+         "checkinsCount": 709, 
+         "usersCount": 320
+      }, 
+      "id": "4cf0fb8fe3b9a09372d03b53", 
+      "categories": [
+         {
+            "pluralName": "Dessert Shops", 
+            "primary": true, 
+            "name": "Dessert Shop", 
+            "shortName": "Desserts", 
+            "id": "4bf58dd8d48988d1d0941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Chiosco \"Piazza Borgo\"", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51726235724894, 
+               "lng": 15.083744609984144, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95125", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Cavour", 
+            "95125 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Cavour", 
+         "lat": 37.51726235724894, 
+         "lng": 15.083744609984144
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 15, 
+         "checkinsCount": 696, 
+         "usersCount": 247
+      }, 
+      "id": "4d0c0b8d3905b1f756fb914b", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": true, 
+      "name": "Bar Galatea", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://www.bargalatea.it", 
+      "storeId": "", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095376109", 
+         "facebook": "163708123684320", 
+         "formattedPhone": "+39 095 376109", 
+         "facebookName": "Bar Galatea"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51386993009957, 
+               "lng": 15.103427746588963, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95129", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Galatea 25/26", 
+            "95129 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Galatea 25/26", 
+         "lat": 37.51386993009957, 
+         "lng": 15.103427746588963
+      }, 
+      "venuePage": {
+         "id": "45395398"
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 5, 
+         "checkinsCount": 695, 
+         "usersCount": 110
+      }, 
+      "id": "4c1c901db4e62d7f0d45db93", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Caff\u00e8 Epoca", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+390956781211", 
+         "formattedPhone": "+39 095 678 1211"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51734650394222, 
+               "lng": 15.105902922871728, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95127", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Europa", 
+            "95127 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Europa", 
+         "lat": 37.51734650394222, 
+         "lng": 15.105902922871728
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 15, 
+         "checkinsCount": 657, 
+         "usersCount": 335
+      }, 
+      "id": "4de3b9adb0fb267148a36d2b", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Osteria Antica Marina", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://www.anticamarina.it", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095348197", 
+         "facebookUsername": "osteriaanticamarina", 
+         "facebook": "1069100676505227", 
+         "formattedPhone": "+39 095 348197", 
+         "facebookName": "Osteria Antica Marina"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50131, 
+               "lng": 15.08683, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95121", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Pardo, 29", 
+            "95121 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Pardo, 29", 
+         "lat": 37.50131, 
+         "lng": 15.08683
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 58, 
+         "checkinsCount": 626, 
+         "usersCount": 569
+      }, 
+      "id": "4c8946e97223b1f76f9c32a8", 
+      "categories": [
+         {
+            "pluralName": "Italian Restaurants", 
+            "primary": true, 
+            "name": "Italian Restaurant", 
+            "shortName": "Italian", 
+            "id": "4bf58dd8d48988d110941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": true, 
+      "name": "Al Vicolo Pizza & Vino", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://www.alvicolopizzaevino.it", 
+      "menu": {
+         "url": "http://www.alvicolopizzaevino.it/pizzeria-catania/", 
+         "label": "Menu", 
+         "mobileUrl": "http://www.alvicolopizzaevino.it/pizzeria-catania/", 
+         "externalUrl": "http://www.alvicolopizzaevino.it/pizzeria-catania/", 
+         "type": "Menu", 
+         "anchor": "View Menu"
+      }, 
+      "storeId": "", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "facebookName": "Al Vicolo Pizza&vino", 
+         "twitter": "alvicolocatania", 
+         "phone": "+390958360730", 
+         "facebook": "274326902694147", 
+         "formattedPhone": "+39 095 836 0730", 
+         "facebookUsername": "AlVicoloPizzaevino"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50703450853919, 
+               "lng": 15.08534460566224, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via del Colosseo 5 (Via Manzoni)", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Via Manzoni", 
+         "address": "Via del Colosseo 5", 
+         "lat": 37.50703450853919, 
+         "lng": 15.08534460566224
+      }, 
+      "venuePage": {
+         "id": "104215684"
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 42, 
+         "checkinsCount": 565, 
+         "usersCount": 392
+      }, 
+      "id": "518d63dd498ebe44112abdc1", 
+      "categories": [
+         {
+            "pluralName": "Pizza Places", 
+            "primary": true, 
+            "name": "Pizza Place", 
+            "shortName": "Pizza", 
+            "id": "4bf58dd8d48988d1ca941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Bar Magr\u00ec", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.52188951589754, 
+               "lng": 15.096290190866029, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95127", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Viale Vittorio Veneto 181", 
+            "95127 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Viale Vittorio Veneto 181", 
+         "lat": 37.52188951589754, 
+         "lng": 15.096290190866029
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 9, 
+         "checkinsCount": 559, 
+         "usersCount": 209
+      }, 
+      "id": "4c923f627f3b8cfa217ca31e", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Bar Castello", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.53590126573625, 
+               "lng": 15.082896693008268, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95125", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Leucatia 95", 
+            "95125 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Leucatia 95", 
+         "lat": 37.53590126573625, 
+         "lng": 15.082896693008268
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 21, 
+         "checkinsCount": 526, 
+         "usersCount": 261
+      }, 
+      "id": "4d2500b0be99b60ce0d5f36e", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Osteria Antica Sicilia", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "https://www.ristoranteosteriaanticasicilia.it", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+390957151075", 
+         "facebookUsername": "ristoranteanticasicilia", 
+         "facebook": "661203937285676", 
+         "formattedPhone": "+39 095 715 1075", 
+         "facebookName": "Ristorante Pizzeria Antica Sicilia"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50323281249358, 
+               "lng": 15.086309191129516, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Roccaforte, 1-17", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Roccaforte, 1-17", 
+         "lat": 37.50323281249358, 
+         "lng": 15.086309191129516
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 18, 
+         "checkinsCount": 474, 
+         "usersCount": 413
+      }, 
+      "id": "4c169ee75e88c928ce6a2466", 
+      "categories": [
+         {
+            "pluralName": "Italian Restaurants", 
+            "primary": true, 
+            "name": "Italian Restaurant", 
+            "shortName": "Italian", 
+            "id": "4bf58dd8d48988d110941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "McDonald's", 
+      "referralId": "v-1517223923", 
+      "venueChains": [
+         {
+            "id": "556f7a12bd6a75a9903bddb2"
+         }
+      ], 
+      "url": "http://www.mcdonalds.it", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095497167", 
+         "formattedPhone": "+39 095 497167"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.531126054041245, 
+               "lng": 15.108164568554074, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95126", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Viale Ulisse, 11 (Via Fucini)", 
+            "95126 Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Via Fucini", 
+         "address": "Viale Ulisse, 11", 
+         "lat": 37.531126054041245, 
+         "lng": 15.108164568554074
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 10, 
+         "checkinsCount": 466, 
+         "usersCount": 254
+      }, 
+      "id": "4c7ea61d01df3704a1e8e3ac", 
+      "categories": [
+         {
+            "pluralName": "Fast Food Restaurants", 
+            "primary": true, 
+            "name": "Fast Food Restaurant", 
+            "shortName": "Fast Food", 
+            "id": "4bf58dd8d48988d16e941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Polpetteria", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+390957159433", 
+         "formattedPhone": "+39 095 715 9433"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51074643455644, 
+               "lng": 15.086380188585625, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95100", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Santa Filomena 48", 
+            "95100 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Santa Filomena 48", 
+         "lat": 37.51074643455644, 
+         "lng": 15.086380188585625
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 22, 
+         "checkinsCount": 448, 
+         "usersCount": 338
+      }, 
+      "id": "4ee7b28a6da192b9d9241c1b", 
+      "categories": [
+         {
+            "pluralName": "Mediterranean Restaurants", 
+            "primary": true, 
+            "name": "Mediterranean Restaurant", 
+            "shortName": "Mediterranean", 
+            "id": "4bf58dd8d48988d1c0941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/mediterranean_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "A putia dell'Ostello", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "labeledLatLngs": [
+            {
+               "lat": 37.501060528304095, 
+               "lng": 15.08622865214019, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "formattedAddress": [
+            "Piazza Curr\u00f2 (Agor\u00e0 Hostel)", 
+            "Italia"
+         ], 
+         "crossStreet": "Agor\u00e0 Hostel", 
+         "address": "Piazza Curr\u00f2", 
+         "lat": 37.501060528304095, 
+         "lng": 15.08622865214019
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 15, 
+         "checkinsCount": 421, 
+         "usersCount": 306
+      }, 
+      "id": "4fe37d1be4b0a812ea1abf9c", 
+      "categories": [
+         {
+            "pluralName": "Italian Restaurants", 
+            "primary": true, 
+            "name": "Italian Restaurant", 
+            "shortName": "Italian", 
+            "id": "4bf58dd8d48988d110941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Caff\u00e8 Parisi", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "twitter": "shin35213"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.47395376523293, 
+               "lng": 15.075122303379581, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via San Giuseppe la Rena (Via Santa Maria Goretti)", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Via Santa Maria Goretti", 
+         "address": "Via San Giuseppe la Rena", 
+         "lat": 37.47395376523293, 
+         "lng": 15.075122303379581
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 9, 
+         "checkinsCount": 401, 
+         "usersCount": 203
+      }, 
+      "id": "4c90b51f0c209c74d0402cff", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Trattoria del Cavaliere", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.506960423554546, 
+               "lng": 15.087319240206911, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "lat": 37.506960423554546, 
+         "lng": 15.087319240206911
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 23, 
+         "checkinsCount": 390, 
+         "usersCount": 305
+      }, 
+      "id": "4bfa71dcb182c9b676477a5a", 
+      "categories": [
+         {
+            "pluralName": "Italian Restaurants", 
+            "primary": true, 
+            "name": "Italian Restaurant", 
+            "shortName": "Italian", 
+            "id": "4bf58dd8d48988d110941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Caf\u00e9 Sauvage", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51486759031307, 
+               "lng": 15.0935578348888, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Corso Italia 1 (Piazza Giovanni Verga)", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Piazza Giovanni Verga", 
+         "address": "Corso Italia 1", 
+         "lat": 37.51486759031307, 
+         "lng": 15.0935578348888
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 3, 
+         "checkinsCount": 382, 
+         "usersCount": 118
+      }, 
+      "id": "4ca8c47297c8a1cde02a88a5", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": true, 
+      "name": "Bar Ottagono", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://www.barottagono.com", 
+      "storeId": "bar_ottagono", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "facebookName": "Bar Ottagono", 
+         "twitter": "barlottagono", 
+         "phone": "+390957273466", 
+         "facebook": "981243671894273", 
+         "formattedPhone": "+39 095 727 3466", 
+         "facebookUsername": "barottagono1983"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Mascalucia", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.574073137524806, 
+               "lng": 15.055160610539577, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95030", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Corso San Vito 71 (Corso Michelangelo)", 
+            "95030 Mascalucia Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Corso Michelangelo", 
+         "address": "Corso San Vito 71", 
+         "lat": 37.574073137524806, 
+         "lng": 15.055160610539577
+      }, 
+      "venuePage": {
+         "id": "72744271"
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 14, 
+         "checkinsCount": 318, 
+         "usersCount": 103
+      }, 
+      "id": "4e7251a8c65bae37848541ae", 
+      "categories": [
+         {
+            "pluralName": "Bars", 
+            "primary": true, 
+            "name": "Bar", 
+            "shortName": "Bar", 
+            "id": "4bf58dd8d48988d116941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": true, 
+      "name": "Scirocco Sicilian Fish Lab", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://sciroccolab.com", 
+      "storeId": "", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+390958365148", 
+         "facebookUsername": "sciroccosicilianfishlab", 
+         "facebook": "1116725061679104", 
+         "formattedPhone": "+39 095 836 5148", 
+         "facebookName": "Scirocco Sicilian Fish Lab"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50183573313132, 
+               "lng": 15.086890644942603, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95121", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Alonzo Di Benedetto 7 (Piazza Duomo)", 
+            "95121 Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Piazza Duomo", 
+         "address": "Piazza Alonzo Di Benedetto 7", 
+         "lat": 37.50183573313132, 
+         "lng": 15.086890644942603
+      }, 
+      "venuePage": {
+         "id": "191321977"
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 20, 
+         "checkinsCount": 225, 
+         "usersCount": 203
+      }, 
+      "id": "5720fbaf498e841b85515968", 
+      "categories": [
+         {
+            "pluralName": "Fast Food Restaurants", 
+            "primary": true, 
+            "name": "Fast Food Restaurant", 
+            "shortName": "Fast Food", 
+            "id": "4bf58dd8d48988d16e941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Chiosco Exagon", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.54017626334853, 
+               "lng": 15.081763510996554, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Leucatia 131", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Leucatia 131", 
+         "lat": 37.54017626334853, 
+         "lng": 15.081763510996554
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 2, 
+         "checkinsCount": 220, 
+         "usersCount": 85
+      }, 
+      "id": "4d2ccb4daa5c6ea821cda704", 
+      "categories": [
+         {
+            "pluralName": "Juice Bars", 
+            "primary": true, 
+            "name": "Juice Bar", 
+            "shortName": "Juice Bar", 
+            "id": "4bf58dd8d48988d112941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/juicebar_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": true, 
+      "name": "Menza", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://www.menza.it", 
+      "storeId": "", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "facebookName": "Menza", 
+         "twitter": "menza10", 
+         "phone": "+39095350925", 
+         "facebook": "249953125081093", 
+         "formattedPhone": "+39 095 350925", 
+         "facebookUsername": "menzaspa"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51090605236668, 
+               "lng": 15.070213700054616, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Viale Mario Rapisardi 140", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Viale Mario Rapisardi 140", 
+         "lat": 37.51090605236668, 
+         "lng": 15.070213700054616
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 10, 
+         "checkinsCount": 213, 
+         "usersCount": 116
+      }, 
+      "id": "4ddc1a2cd4c082f960bf209b", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Buatta", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://www.buatta.it", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "facebookName": "Buatta", 
+         "twitter": "buattacatania", 
+         "phone": "+390958737739", 
+         "facebook": "1093827667313303", 
+         "formattedPhone": "+39 095 873 7739", 
+         "facebookUsername": "buattacatania"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50500910048966, 
+               "lng": 15.084810773309863, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Crociferi, 42 (Via Antonio Di Sangiuliano)", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Via Antonio Di Sangiuliano", 
+         "address": "Via Crociferi, 42", 
+         "lat": 37.50500910048966, 
+         "lng": 15.084810773309863
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 16, 
+         "checkinsCount": 183, 
+         "usersCount": 127
+      }, 
+      "id": "5569f5b9498e8087c76213a4", 
+      "categories": [
+         {
+            "pluralName": "Italian Restaurants", 
+            "primary": true, 
+            "name": "Italian Restaurant", 
+            "shortName": "Italian", 
+            "id": "4bf58dd8d48988d110941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Vermut", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+393476001978", 
+         "formattedPhone": "+39 347 600 1978"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50897674403813, 
+               "lng": 15.086804989139699, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95131", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Gemmellaro 37/39", 
+            "95131 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Gemmellaro 37/39", 
+         "lat": 37.50897674403813, 
+         "lng": 15.086804989139699
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 170, 
+         "usersCount": 49
+      }, 
+      "id": "58599e4fdebdf65d643952db", 
+      "categories": [
+         {
+            "pluralName": "Cocktail Bars", 
+            "primary": true, 
+            "name": "Cocktail Bar", 
+            "shortName": "Cocktail", 
+            "id": "4bf58dd8d48988d11e941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Pasticceria Privitera", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+390957545709", 
+         "formattedPhone": "+39 095 754 5709"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Mascalucia", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.5727295575376, 
+               "lng": 15.045281682092051, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95030", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Roma 142", 
+            "95030 Mascalucia Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Roma 142", 
+         "lat": 37.5727295575376, 
+         "lng": 15.045281682092051
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 2, 
+         "checkinsCount": 161, 
+         "usersCount": 31
+      }, 
+      "id": "4de8abb27d8b02ee9f1ac76c", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Caff\u00e8 Armando", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Tremestieri Etneo", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.56163708394351, 
+               "lng": 15.072643847193604, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Tremestieri Etneo Sicilia", 
+            "Italia"
+         ], 
+         "lat": 37.56163708394351, 
+         "lng": 15.072643847193604
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 3, 
+         "checkinsCount": 144, 
+         "usersCount": 61
+      }, 
+      "id": "4df4c7fe1f6e818dae05273a", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Trattoria Da Antonio", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50004051833977, 
+               "lng": 15.08395203008868, 
+               "label": "display"
+            }
+         ], 
+         "neighborhood": "Centro Catania", 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "lat": 37.50004051833977, 
+         "lng": 15.08395203008868
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 10, 
+         "checkinsCount": 137, 
+         "usersCount": 131
+      }, 
+      "id": "51bb003a498e1e3c4ec4170f", 
+      "categories": [
+         {
+            "pluralName": "Italian Restaurants", 
+            "primary": true, 
+            "name": "Italian Restaurant", 
+            "shortName": "Italian", 
+            "id": "4bf58dd8d48988d110941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/italian_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "C & G - Cioccolato e Gelato", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.505000828977856, 
+               "lng": 15.08710425383166, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via San Giuliano", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via San Giuliano", 
+         "lat": 37.505000828977856, 
+         "lng": 15.08710425383166
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 2, 
+         "checkinsCount": 135, 
+         "usersCount": 104
+      }, 
+      "id": "568309d3498eac34b2081a6e", 
+      "categories": [
+         {
+            "pluralName": "Dessert Shops", 
+            "primary": true, 
+            "name": "Dessert Shop", 
+            "shortName": "Desserts", 
+            "id": "4bf58dd8d48988d1d0941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/dessert_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Corte dei medici", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "labeledLatLngs": [
+            {
+               "lat": 37.51153290457714, 
+               "lng": 15.08891043013218, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "formattedAddress": [
+            "Italia"
+         ], 
+         "lat": 37.51153290457714, 
+         "lng": 15.08891043013218
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 14, 
+         "checkinsCount": 115, 
+         "usersCount": 91
+      }, 
+      "id": "55297665498ea4c3e395c952", 
+      "categories": [
+         {
+            "pluralName": "Pizza Places", 
+            "primary": true, 
+            "name": "Pizza Place", 
+            "shortName": "Pizza", 
+            "id": "4bf58dd8d48988d1ca941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Scardaci Ice Caf\u00e8", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.5070516657797, 
+               "lng": 15.086176108874598, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "via Etnea 158", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "via Etnea 158", 
+         "lat": 37.5070516657797, 
+         "lng": 15.086176108874598
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 4, 
+         "checkinsCount": 94, 
+         "usersCount": 77
+      }, 
+      "id": "50676c04e4b0d343959d6b5e", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Caff\u00e8 Mazzini", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Misterbianco", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.518263, 
+               "lng": 15.005721, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95045", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Mazzini", 
+            "95045 Misterbianco Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Mazzini", 
+         "lat": 37.518263, 
+         "lng": 15.005721
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 76, 
+         "usersCount": 13
+      }, 
+      "id": "55a808cb498e0ce4301cb550", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Ristorante Casalrosato", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://www.ristorantecasalrosato.com", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+393460843936", 
+         "formattedPhone": "+39 346 084 3936"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Valverde", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.57445, 
+               "lng": 15.13142, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95028", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Fontana, 60", 
+            "95028 Valverde (CT) Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Fontana, 60", 
+         "lat": 37.57445, 
+         "lng": 15.13142
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 52, 
+         "usersCount": 11
+      }, 
+      "id": "4d174ddaf57860fc04c9c69d", 
+      "categories": [
+         {
+            "pluralName": "Pizza Places", 
+            "primary": true, 
+            "name": "Pizza Place", 
+            "shortName": "Pizza", 
+            "id": "4bf58dd8d48988d1ca941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/pizza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Cakeamoredizucchero", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://www.cakeamoredizucchero.it", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095506036", 
+         "facebookUsername": "tortepastadizuccherodigiusy", 
+         "facebook": "683865411664322", 
+         "formattedPhone": "+39 095 506036", 
+         "facebookName": "CakeAmoreDiZucchero"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51883, 
+               "lng": 15.09234, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95127", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Corso delle Province, 122/A", 
+            "95127 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Corso delle Province, 122/A", 
+         "lat": 37.51883, 
+         "lng": 15.09234
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 45, 
+         "usersCount": 12
+      }, 
+      "id": "585413ce084be51e174b3a40", 
+      "categories": [
+         {
+            "pluralName": "Bakeries", 
+            "primary": true, 
+            "name": "Bakery", 
+            "shortName": "Bakery", 
+            "id": "4bf58dd8d48988d16a941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Bar Diaz", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "labeledLatLngs": [
+            {
+               "lat": 37.51236139005668, 
+               "lng": 15.056549126775183, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "formattedAddress": [
+            "Italia"
+         ], 
+         "lat": 37.51236139005668, 
+         "lng": 15.056549126775183
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 32, 
+         "usersCount": 13
+      }, 
+      "id": "4fb4da79e4b0186ba3897cf5", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Happy Island", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "labeledLatLngs": [
+            {
+               "lat": 37.573949, 
+               "lng": 15.115848, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "formattedAddress": [
+            "Italia"
+         ], 
+         "lat": 37.573949, 
+         "lng": 15.115848
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 16, 
+         "usersCount": 14
+      }, 
+      "id": "4f6f62c4e4b0221c2de351bb", 
+      "categories": [
+         {
+            "pluralName": "Caf\u00e9s", 
+            "primary": true, 
+            "name": "Caf\u00e9", 
+            "shortName": "Caf\u00e9", 
+            "id": "4bf58dd8d48988d16d941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/cafe_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Gusto Privitera Alta Pasticceria", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "url": "http://www.gustoprivitera.it", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095360637", 
+         "formattedPhone": "+39 095 360637"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51038, 
+               "lng": 15.06718, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95123", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Viale Mario Rapisardi, 251", 
+            "95123 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Viale Mario Rapisardi, 251", 
+         "lat": 37.51038, 
+         "lng": 15.06718
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 13, 
+         "usersCount": 10
+      }, 
+      "id": "56fb8c1e498eb2634a9c16cd", 
+      "categories": [
+         {
+            "pluralName": "Bakeries", 
+            "primary": true, 
+            "name": "Bakery", 
+            "shortName": "Bakery", 
+            "id": "4bf58dd8d48988d16a941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Maniscalco Salvatore Giuseppe Pan Del Sole", 
+      "referralId": "v-1517223923", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.511734, 
+               "lng": 15.092379, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95129", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "283 Via Monsignore Ventimiglia", 
+            "95129 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "283 Via Monsignore Ventimiglia", 
+         "lat": 37.511734, 
+         "lng": 15.092379
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 3, 
+         "usersCount": 2
+      }, 
+      "id": "5a60c098fd9d7353fcfdbd83", 
+      "categories": [
+         {
+            "pluralName": "Bakeries", 
+            "primary": true, 
+            "name": "Bakery", 
+            "shortName": "Bakery", 
+            "id": "4bf58dd8d48988d16a941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bakery_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }
+]
