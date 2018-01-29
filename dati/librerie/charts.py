@@ -1,5 +1,5 @@
 # Il parametro in_path dei vari metodi rappresenta il path da cui prelevare la struttura dei grafici
-# La struttura è rappresentata dai file 'column_script.html' e 'pie_script.html' contenuti nella cartella dati
+# La struttura è rappresentata dai file 'column_script.html' e 'pie_script.html' contenuti nella cartella dati/google_charts
 
 import random
 
