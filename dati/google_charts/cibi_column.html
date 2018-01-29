@@ -1,0 +1,27 @@
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+    google.charts.load("current", {packages:['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      var data = google.visualization.arrayToDataTable([['Cibi', 'Checkins', {'role': 'style'}], ['Pasticceria Savia', 2250, 'darkblue'], ['C&G - Cioccolato e Gelato', 2207, 'darkblue'], ['FUD', 2195, 'darkblue'], ['Caff\xc3\xa8 Europa', 1714, 'darkblue'], ['Wine Bar Razmataz', 1556, 'darkblue'], ['Pasticceria Spinella', 1463, 'darkblue'], ["Laboratorio Via Napoli di D'Arrigo Fabio & C. S.n.c.", 1382, 'darkblue']]);
+
+      var view = new google.visualization.DataView(data);
+      view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },
+                       2]);
+
+      var options = {
+        title: "Checkins nei primi 7 luoghi principali in cui mangiare",
+        width: 900,
+        height: 450,
+        bar: {groupWidth: "70%"},
+        legend: { position: "none" },
+      };
+      var chart = new google.visualization.ColumnChart(document.getElementById("columnchart_values"));
+      chart.draw(view, options);
+  }
+  </script>
+<div id="columnchart_values" style="width: 900px; height: 300px;"></div>
