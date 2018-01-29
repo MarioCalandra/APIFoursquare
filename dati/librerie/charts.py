@@ -49,6 +49,9 @@ class PieChart:
 		self.attr.append([nameX, nameY])
 		self.elements = list()
 		
+	def setTitle(self, title):
+		self.title = title
+		
 	def addElement(self, name, value):
 		self.elements.append([name, value])
 		
