@@ -1,0 +1,27 @@
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+    google.charts.load("current", {packages:['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      var data = google.visualization.arrayToDataTable([['Piazze', 'Checkins', {'role': 'style'}], ['Piazza Duomo', 5386, 'darkred'], ['Piazza Vincenzo Bellini', 3759, 'darkred'], ['Piazza Universit\xc3\xa0', 2530, 'darkred'], ['Piazza Stesicoro', 2520, 'darkred'], ['Piazza Europa', 1436, 'darkred'], ['Piazza Umberto', 1116, 'darkred'], ['Piazza Alcal\xc3\xa0', 988, 'darkred']]);
+
+      var view = new google.visualization.DataView(data);
+      view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },
+                       2]);
+
+      var options = {
+        title: "Checkins nelle prime 7 piazze principali",
+        width: 900,
+        height: 450,
+        bar: {groupWidth: "70%"},
+        legend: { position: "none" },
+      };
+      var chart = new google.visualization.ColumnChart(document.getElementById("columnchart_values"));
+      chart.draw(view, options);
+  }
+  </script>
+<div id="columnchart_values" style="width: 900px; height: 300px;"></div>
