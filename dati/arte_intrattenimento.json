@@ -1,0 +1,3134 @@
+[
+   {
+      "verified": false, 
+      "name": "Monastero dei Benedettini", 
+      "referralId": "v-1517224302", 
+      "url": "http://www.monasterodeibenedettini.it", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "venueChains": [], 
+      "contact": {
+         "phone": "+390957102767", 
+         "twitter": "benedettini_oc", 
+         "formattedPhone": "+39 095 710 2767"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50365297469744, 
+               "lng": 15.079804997425931, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Dante Alighieri 32", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Dante Alighieri 32", 
+         "lat": 37.50365297469744, 
+         "lng": 15.079804997425931
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 35, 
+         "checkinsCount": 3796, 
+         "usersCount": 899
+      }, 
+      "id": "4ca47e4cf832a1cd9143a6e5", 
+      "categories": [
+         {
+            "pluralName": "Historic Sites", 
+            "primary": true, 
+            "name": "Historic Site", 
+            "shortName": "Historic Site", 
+            "id": "4deefb944765f83613cdba6e", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Vincenzo Bellini", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.504388699636614, 
+               "lng": 15.090792598866965, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95131", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Vincenzo Bellini", 
+            "95131 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Vincenzo Bellini", 
+         "lat": 37.504388699636614, 
+         "lng": 15.090792598866965
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 13, 
+         "checkinsCount": 3759, 
+         "usersCount": 1355
+      }, 
+      "id": "4bfd9141b68d0f47c0f8e857", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "CineStar Catania", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "San Giovanni la Punta", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.58473399647974, 
+               "lng": 15.104899966791654, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95037", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Parco Commerciale \"I Portali\" (Viale Cristoforo Colombo)", 
+            "95037 San Giovanni la Punta Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Viale Cristoforo Colombo", 
+         "address": "Parco Commerciale \"I Portali\"", 
+         "lat": 37.58473399647974, 
+         "lng": 15.104899966791654
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 17, 
+         "checkinsCount": 1694, 
+         "usersCount": 547
+      }, 
+      "id": "4c509d93375c0f47d7479a92", 
+      "categories": [
+         {
+            "pluralName": "Multiplexes", 
+            "primary": true, 
+            "name": "Multiplex", 
+            "shortName": "Cineplex", 
+            "id": "4bf58dd8d48988d180941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Castello Ursino", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 1, 
+         "groups": [
+            {
+               "count": 1, 
+               "items": [], 
+               "type": "others", 
+               "name": "Other people here"
+            }
+         ], 
+         "summary": "One other person is here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.49901442259219, 
+               "lng": 15.084646940231321, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Federico di Svevia", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Federico di Svevia", 
+         "lat": 37.49901442259219, 
+         "lng": 15.084646940231321
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 13, 
+         "checkinsCount": 1606, 
+         "usersCount": 1110
+      }, 
+      "id": "4c1d0abab4e62d7f1f0adc93", 
+      "categories": [
+         {
+            "pluralName": "Castles", 
+            "primary": true, 
+            "name": "Castle", 
+            "shortName": "Castle", 
+            "id": "50aaa49e4b90af0d42d5de11", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/beach_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "RADIO LAB", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "url": "http://www.radiolab.it", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+390958162677", 
+         "twitter": "radiolabcatania", 
+         "formattedPhone": "+39 095 816 2677"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51014576963212, 
+               "lng": 15.102873301509849, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95100", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazzale Asia 6 (presso Z\u014d)", 
+            "95100 Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "presso Z\u014d", 
+         "address": "Piazzale Asia 6", 
+         "lat": 37.51014576963212, 
+         "lng": 15.102873301509849
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 1524, 
+         "usersCount": 71
+      }, 
+      "id": "4e8c586d6c25fbeecd86f5b0", 
+      "categories": [
+         {
+            "pluralName": "Radio Stations", 
+            "primary": true, 
+            "name": "Radio Station", 
+            "shortName": "Radio Station", 
+            "id": "5032856091d4c4b30a586d63", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Stadio Cibali \"Angelo Massimino\"", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51537732299826, 
+               "lng": 15.071025145423722, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95125", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Vincenzo Spedini", 
+            "95125 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Vincenzo Spedini", 
+         "lat": 37.51537732299826, 
+         "lng": 15.071025145423722
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 10, 
+         "checkinsCount": 1157, 
+         "usersCount": 487
+      }, 
+      "id": "4c8ccdeced3ab60cd6b86a21", 
+      "categories": [
+         {
+            "pluralName": "Soccer Stadiums", 
+            "primary": true, 
+            "name": "Soccer Stadium", 
+            "shortName": "Soccer", 
+            "id": "4bf58dd8d48988d188941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/stadium_soccer_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Multisala Planet", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095223061", 
+         "formattedPhone": "+39 095 223061"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.535342758676386, 
+               "lng": 15.09526850967832, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95126", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Viale della Costituzione 47", 
+            "95126 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Viale della Costituzione 47", 
+         "lat": 37.535342758676386, 
+         "lng": 15.09526850967832
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 19, 
+         "checkinsCount": 1142, 
+         "usersCount": 368
+      }, 
+      "id": "4c7d49a28da18cfad7eb9ece", 
+      "categories": [
+         {
+            "pluralName": "Multiplexes", 
+            "primary": true, 
+            "name": "Multiplex", 
+            "shortName": "Cineplex", 
+            "id": "4bf58dd8d48988d180941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Teatro Massimo Bellini", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "url": "http://www.teatromassimobellini.it", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.5044465498374, 
+               "lng": 15.090642267167844, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95131", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Perrotta 12 (Piazza Vincenzo Bellini)", 
+            "95131 Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Piazza Vincenzo Bellini", 
+         "address": "Via Perrotta 12", 
+         "lat": 37.5044465498374, 
+         "lng": 15.090642267167844
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 15, 
+         "checkinsCount": 971, 
+         "usersCount": 542
+      }, 
+      "id": "4d8f585c1716a1434ef747f7", 
+      "categories": [
+         {
+            "pluralName": "Opera Houses", 
+            "primary": true, 
+            "name": "Opera House", 
+            "shortName": "Opera House", 
+            "id": "4bf58dd8d48988d136941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_operahouse_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "The Space Cinema", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39892111", 
+         "formattedPhone": "+39 892 111"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Belpasso", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.543027664904685, 
+               "lng": 14.953667897268835, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95032", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Centro Commerciale \"Etnapolis\" (SS 121 Km 13+100 - Contrada Valcorrente 23)", 
+            "95032 Belpasso Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "SS 121 Km 13+100 - Contrada Valcorrente 23", 
+         "address": "Centro Commerciale \"Etnapolis\"", 
+         "lat": 37.543027664904685, 
+         "lng": 14.953667897268835
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 13, 
+         "checkinsCount": 901, 
+         "usersCount": 326
+      }, 
+      "id": "4c1d20eab9f876b0ee157d46", 
+      "categories": [
+         {
+            "pluralName": "Movie Theaters", 
+            "primary": true, 
+            "name": "Movie Theater", 
+            "shortName": "Movie Theater", 
+            "id": "4bf58dd8d48988d17f941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "UCI Cinemas", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "url": "http://www.ucicinemas.it/5187/", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39892960", 
+         "formattedPhone": "+39 892 960"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.47688051384585, 
+               "lng": 15.012523076212025, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Centro Sicilia (Contrada Cubba, SP 54)", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Contrada Cubba, SP 54", 
+         "address": "Centro Sicilia", 
+         "lat": 37.47688051384585, 
+         "lng": 15.012523076212025
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 16, 
+         "checkinsCount": 661, 
+         "usersCount": 261
+      }, 
+      "id": "50c0f2a7e4b0d45a964f789b", 
+      "categories": [
+         {
+            "pluralName": "Multiplexes", 
+            "primary": true, 
+            "name": "Multiplex", 
+            "shortName": "Cineplex", 
+            "id": "4bf58dd8d48988d180941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "referralId": "v-1517224302", 
+      "verified": false, 
+      "name": "Palazzo della cultura - Cortile Platamone", 
+      "venueRatingBlacklisted": true, 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.5028366260613, 
+               "lng": 15.090536647946626, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95131", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Museo Biscari, 16", 
+            "95131 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Museo Biscari, 16", 
+         "lat": 37.5028366260613, 
+         "lng": 15.090536647946626
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 5, 
+         "checkinsCount": 549, 
+         "usersCount": 293
+      }, 
+      "id": "4c1ac628c09ed13a445c828e", 
+      "categories": [
+         {
+            "pluralName": "Event Spaces", 
+            "primary": true, 
+            "name": "Event Space", 
+            "shortName": "Event Space", 
+            "id": "4bf58dd8d48988d171941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/building/eventspace_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Anfiteatro Romano", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50742278886276, 
+               "lng": 15.085868696744782, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Stesicoro", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Stesicoro", 
+         "lat": 37.50742278886276, 
+         "lng": 15.085868696744782
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 8, 
+         "checkinsCount": 544, 
+         "usersCount": 412
+      }, 
+      "id": "4c30db64213c2d7f5c1a335d", 
+      "categories": [
+         {
+            "pluralName": "Historic Sites", 
+            "primary": true, 
+            "name": "Historic Site", 
+            "shortName": "Historic Site", 
+            "id": "4deefb944765f83613cdba6e", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Teatro Romano", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50288482061429, 
+               "lng": 15.083938199131135, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Vittorio Emanuele, 266", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Vittorio Emanuele, 266", 
+         "lat": 37.50288482061429, 
+         "lng": 15.083938199131135
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 9, 
+         "checkinsCount": 538, 
+         "usersCount": 380
+      }, 
+      "id": "4da079edbb206ea8d760dcfd", 
+      "categories": [
+         {
+            "pluralName": "Historic Sites", 
+            "primary": true, 
+            "name": "Historic Site", 
+            "shortName": "Historic Site", 
+            "id": "4deefb944765f83613cdba6e", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Glamour Caf\u00e8", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+390952180579", 
+         "formattedPhone": "+39 095 218 0579"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50552981503726, 
+               "lng": 15.087271058788675, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Carcaci, 11-13 (Piazza Manganelli)", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Piazza Manganelli", 
+         "address": "Via Carcaci, 11-13", 
+         "lat": 37.50552981503726, 
+         "lng": 15.087271058788675
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 10, 
+         "checkinsCount": 518, 
+         "usersCount": 212
+      }, 
+      "id": "4d434e101928a35deabdac70", 
+      "categories": [
+         {
+            "pluralName": "Cocktail Bars", 
+            "primary": true, 
+            "name": "Cocktail Bar", 
+            "shortName": "Cocktail", 
+            "id": "4bf58dd8d48988d11e941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/cocktails_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Cinema King", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095530218", 
+         "formattedPhone": "+39 095 530218"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.506747096893235, 
+               "lng": 15.093586549073292, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Antonio de Curtis 14", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Antonio de Curtis 14", 
+         "lat": 37.506747096893235, 
+         "lng": 15.093586549073292
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 514, 
+         "usersCount": 131
+      }, 
+      "id": "4d309e30a62d721e71219c7d", 
+      "categories": [
+         {
+            "pluralName": "Movie Theaters", 
+            "primary": true, 
+            "name": "Movie Theater", 
+            "shortName": "Movie Theater", 
+            "id": "4bf58dd8d48988d17f941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "MA - Musica Arte", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095341153", 
+         "formattedPhone": "+39 095 341153"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.49940462169727, 
+               "lng": 15.085853035221376, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Vela 6/8/10 (Piazza Federico II di Svevia)", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Piazza Federico II di Svevia", 
+         "address": "Via Vela 6/8/10", 
+         "lat": 37.49940462169727, 
+         "lng": 15.085853035221376
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 484, 
+         "usersCount": 287
+      }, 
+      "id": "4db1f5db93a061576861b830", 
+      "categories": [
+         {
+            "pluralName": "Nightclubs", 
+            "primary": true, 
+            "name": "Nightclub", 
+            "shortName": "Nightclub", 
+            "id": "4bf58dd8d48988d11f941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/nightclub_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Palazzo Biscari", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "labeledLatLngs": [
+            {
+               "lat": 37.50191624281785, 
+               "lng": 15.09047503674085, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "formattedAddress": [
+            "Italia"
+         ], 
+         "lat": 37.50191624281785, 
+         "lng": 15.09047503674085
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 6, 
+         "checkinsCount": 426, 
+         "usersCount": 236
+      }, 
+      "id": "4cc82e59caa5a1cdadf49be7", 
+      "categories": [
+         {
+            "pluralName": "Historic Sites", 
+            "primary": true, 
+            "name": "Historic Site", 
+            "shortName": "Historic Site", 
+            "id": "4deefb944765f83613cdba6e", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Scenario Pubblico", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+390952503147", 
+         "formattedPhone": "+39 095 250 3147"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50437877224471, 
+               "lng": 15.092827220391344, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95131", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Teatro Massimo 16", 
+            "95131 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Teatro Massimo 16", 
+         "lat": 37.50437877224471, 
+         "lng": 15.092827220391344
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 11, 
+         "checkinsCount": 366, 
+         "usersCount": 165
+      }, 
+      "id": "4c97cabafbcc224b1dfa7991", 
+      "categories": [
+         {
+            "pluralName": "General Entertainment", 
+            "primary": true, 
+            "name": "General Entertainment", 
+            "shortName": "Entertainment", 
+            "id": "4bf58dd8d48988d1f1931735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Cinema Alfieri", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095373760", 
+         "formattedPhone": "+39 095 373760"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.52010867689083, 
+               "lng": 15.104198690102379, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Duca degli Abruzzi 8", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Duca degli Abruzzi 8", 
+         "lat": 37.52010867689083, 
+         "lng": 15.104198690102379
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 4, 
+         "checkinsCount": 313, 
+         "usersCount": 126
+      }, 
+      "id": "4ca231ea1ee76dcbb3a5eedd", 
+      "categories": [
+         {
+            "pluralName": "Movie Theaters", 
+            "primary": true, 
+            "name": "Movie Theater", 
+            "shortName": "Movie Theater", 
+            "id": "4bf58dd8d48988d17f941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Orto Botanico", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "url": "http://attivitaortobotanico.unict.it", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095430901", 
+         "facebookUsername": "OrtoBotanicoDiCataniaPaginaUfficiale", 
+         "facebook": "262987347145404", 
+         "formattedPhone": "+39 095 430901", 
+         "facebookName": "Orto botanico di Catania (Pagina Ufficiale)"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51568305958246, 
+               "lng": 15.083539187908173, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95125", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via A. Longo 19 (Via Etnea 397)", 
+            "95125 Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Via Etnea 397", 
+         "address": "Via A. Longo 19", 
+         "lat": 37.51568305958246, 
+         "lng": 15.083539187908173
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 5, 
+         "checkinsCount": 248, 
+         "usersCount": 162
+      }, 
+      "id": "4d67ad6f9792b1f79532401f", 
+      "categories": [
+         {
+            "pluralName": "Gardens", 
+            "primary": true, 
+            "name": "Garden", 
+            "shortName": "Garden", 
+            "id": "4bf58dd8d48988d15a941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/garden_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Teatro Coppola - Teatro dei Cittadini", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "twitter": "teatro_coppola"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50157759410981, 
+               "lng": 15.091515894864068, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95131", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via del Vecchio Bastione, 9, 95131 Catania CT", 
+            "95131 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via del Vecchio Bastione, 9, 95131 Catania CT", 
+         "lat": 37.50157759410981, 
+         "lng": 15.091515894864068
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 7, 
+         "checkinsCount": 173, 
+         "usersCount": 85
+      }, 
+      "id": "4f34344ce4b04e1681d59c66", 
+      "categories": [
+         {
+            "pluralName": "Indie Theaters", 
+            "primary": true, 
+            "name": "Indie Theater", 
+            "shortName": "Indie", 
+            "id": "4bf58dd8d48988d135941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Bowling La Playa", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095341542", 
+         "formattedPhone": "+39 095 341542"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.488338638665844, 
+               "lng": 15.083511574077155, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Viale Kennedy 2", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Viale Kennedy 2", 
+         "lat": 37.488338638665844, 
+         "lng": 15.083511574077155
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 171, 
+         "usersCount": 128
+      }, 
+      "id": "4d741f669d2fa14311f9ecd6", 
+      "categories": [
+         {
+            "pluralName": "Bowling Alleys", 
+            "primary": true, 
+            "name": "Bowling Alley", 
+            "shortName": "Bowling Alley", 
+            "id": "4bf58dd8d48988d1e4931735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/bowling_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Midtown Movie Theater", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.462452855858274, 
+               "lng": 14.960321569541291, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "lat": 37.462452855858274, 
+         "lng": 14.960321569541291
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 164, 
+         "usersCount": 34
+      }, 
+      "id": "4e0a137645ddb2875c5c9f2f", 
+      "categories": [
+         {
+            "pluralName": "Movie Theaters", 
+            "primary": true, 
+            "name": "Movie Theater", 
+            "shortName": "Movie Theater", 
+            "id": "4bf58dd8d48988d17f941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Fontana dell'Amenano", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50215243785653, 
+               "lng": 15.08704438477945, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Duomo", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Duomo", 
+         "lat": 37.50215243785653, 
+         "lng": 15.08704438477945
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 148, 
+         "usersCount": 127
+      }, 
+      "id": "4f0d9cbf7bebfc145ffd49e7", 
+      "categories": [
+         {
+            "pluralName": "Historic Sites", 
+            "primary": true, 
+            "name": "Historic Site", 
+            "shortName": "Historic Site", 
+            "id": "4deefb944765f83613cdba6e", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "BOCS / Box Of Contemporary Space", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "twitter": "bebocs"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.49659911188255, 
+               "lng": 15.089338262583073, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95121", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via grimaldi 150", 
+            "95121 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via grimaldi 150", 
+         "lat": 37.49659911188255, 
+         "lng": 15.089338262583073
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 2, 
+         "checkinsCount": 115, 
+         "usersCount": 30
+      }, 
+      "id": "4c9db47546978cfae95f9a7f", 
+      "categories": [
+         {
+            "pluralName": "Art Galleries", 
+            "primary": true, 
+            "name": "Art Gallery", 
+            "shortName": "Art Gallery", 
+            "id": "4bf58dd8d48988d1e2931735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Chiesa della Badia di Sant\u2019Agata", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50296382594984, 
+               "lng": 15.087940692901611, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Vittorio Emanuele II, 163", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Vittorio Emanuele II, 163", 
+         "lat": 37.50296382594984, 
+         "lng": 15.087940692901611
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 3, 
+         "checkinsCount": 107, 
+         "usersCount": 98
+      }, 
+      "id": "4f0c5e067beb5fd313f407ad", 
+      "categories": [
+         {
+            "pluralName": "Historic Sites", 
+            "primary": true, 
+            "name": "Historic Site", 
+            "shortName": "Historic Site", 
+            "id": "4deefb944765f83613cdba6e", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "referralId": "v-1517224302", 
+      "verified": false, 
+      "name": "Basilica della Colleggiata", 
+      "venueRatingBlacklisted": true, 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50416608879322, 
+               "lng": 15.08694111566035, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Collegiata 3 (Via Etnea)", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Via Etnea", 
+         "address": "Via Collegiata 3", 
+         "lat": 37.50416608879322, 
+         "lng": 15.08694111566035
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 3, 
+         "checkinsCount": 100, 
+         "usersCount": 88
+      }, 
+      "id": "4d42cb3390f388bf4a074d01", 
+      "categories": [
+         {
+            "pluralName": "Churches", 
+            "primary": true, 
+            "name": "Church", 
+            "shortName": "Church", 
+            "id": "4bf58dd8d48988d132941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "referralId": "v-1517224302", 
+      "verified": false, 
+      "name": "Chiesa San Francesco e l'Immacolata", 
+      "venueRatingBlacklisted": true, 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.502704650501144, 
+               "lng": 15.08473174015135, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza San Francesco d'Assisi", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza San Francesco d'Assisi", 
+         "lat": 37.502704650501144, 
+         "lng": 15.08473174015135
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 97, 
+         "usersCount": 88
+      }, 
+      "id": "4f0d929b7bebfc145ffc2d2e", 
+      "categories": [
+         {
+            "pluralName": "Churches", 
+            "primary": true, 
+            "name": "Church", 
+            "shortName": "Church", 
+            "id": "4bf58dd8d48988d132941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Q-fun Laser Game", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+393887868450", 
+         "formattedPhone": "+39 388 786 8450"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "San Giovanni la Punta", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.584786106753604, 
+               "lng": 15.105165319619584, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Viale Cristoforo Colombo (Centro Commerciale I Portali)", 
+            "San Giovanni la Punta Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Centro Commerciale I Portali", 
+         "address": "Viale Cristoforo Colombo", 
+         "lat": 37.584786106753604, 
+         "lng": 15.105165319619584
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 96, 
+         "usersCount": 38
+      }, 
+      "id": "50c84b79e4b09f545d096b17", 
+      "categories": [
+         {
+            "pluralName": "Arcades", 
+            "primary": true, 
+            "name": "Arcade", 
+            "shortName": "Arcade", 
+            "id": "4bf58dd8d48988d1e1931735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/arcade_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Terme della Rotonda", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.503883053657425, 
+               "lng": 15.082517266273499, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "via della Rotonda", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "via della Rotonda", 
+         "lat": 37.503883053657425, 
+         "lng": 15.082517266273499
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 4, 
+         "checkinsCount": 94, 
+         "usersCount": 25
+      }, 
+      "id": "4f0f0be5a17c6073554fc666", 
+      "categories": [
+         {
+            "pluralName": "Historic Sites", 
+            "primary": true, 
+            "name": "Historic Site", 
+            "shortName": "Historic Site", 
+            "id": "4deefb944765f83613cdba6e", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Teatro Stabile Catania - Verga", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.512398713321396, 
+               "lng": 15.071784372742666, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Giuseppe Fava 35", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Giuseppe Fava 35", 
+         "lat": 37.512398713321396, 
+         "lng": 15.071784372742666
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 2, 
+         "checkinsCount": 84, 
+         "usersCount": 53
+      }, 
+      "id": "4d973fc161a3a1cde7beaf42", 
+      "categories": [
+         {
+            "pluralName": "Theaters", 
+            "primary": true, 
+            "name": "Theater", 
+            "shortName": "Theater", 
+            "id": "4bf58dd8d48988d137941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "referralId": "v-1517224302", 
+      "verified": false, 
+      "name": "Comunit\u00e0 Parrocchiale Santi Pietro e Paolo", 
+      "venueRatingBlacklisted": true, 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+39095431949", 
+         "formattedPhone": "+39 095 431949"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.522530239891296, 
+               "lng": 15.089761395474948, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95128", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Siena 1", 
+            "95128 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Siena 1", 
+         "lat": 37.522530239891296, 
+         "lng": 15.089761395474948
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 73, 
+         "usersCount": 10
+      }, 
+      "id": "50196c2a45b06924d62ca22b", 
+      "categories": [
+         {
+            "pluralName": "Churches", 
+            "primary": true, 
+            "name": "Church", 
+            "shortName": "Church", 
+            "id": "4bf58dd8d48988d132941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/building/religious_church_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Cine City Ariston", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51769565302107, 
+               "lng": 15.088488267188378, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Balduino", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Balduino", 
+         "lat": 37.51769565302107, 
+         "lng": 15.088488267188378
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 72, 
+         "usersCount": 26
+      }, 
+      "id": "55ddeeff498e5d807e4d421c", 
+      "categories": [
+         {
+            "pluralName": "Multiplexes", 
+            "primary": true, 
+            "name": "Multiplex", 
+            "shortName": "Cineplex", 
+            "id": "4bf58dd8d48988d180941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/movietheater_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Porta Garibaldi", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.499648554234874, 
+               "lng": 15.073864459991455, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95122", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Palestro", 
+            "95122 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Palestro", 
+         "lat": 37.499648554234874, 
+         "lng": 15.073864459991455
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 61, 
+         "usersCount": 58
+      }, 
+      "id": "4f0efca5a17c6073554e3612", 
+      "categories": [
+         {
+            "pluralName": "Historic Sites", 
+            "primary": true, 
+            "name": "Historic Site", 
+            "shortName": "Historic Site", 
+            "id": "4deefb944765f83613cdba6e", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Luna Park Di Ognina", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.52361393000871, 
+               "lng": 15.115588903427124, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Nettuno", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Nettuno", 
+         "lat": 37.52361393000871, 
+         "lng": 15.115588903427124
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 60, 
+         "usersCount": 35
+      }, 
+      "id": "4e52d911c65b76e8bcc2f3f4", 
+      "categories": [
+         {
+            "pluralName": "Theme Parks", 
+            "primary": true, 
+            "name": "Theme Park", 
+            "shortName": "Theme Park", 
+            "id": "4bf58dd8d48988d182941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/themepark_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Archivio del Museo della Fabbrica, Monastero dei Benedettini", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+390957102817", 
+         "formattedPhone": "+39 095 710 2817"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50474531581789, 
+               "lng": 15.080216029376725, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Biblioteca, 11", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Biblioteca, 11", 
+         "lat": 37.50474531581789, 
+         "lng": 15.080216029376725
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 59, 
+         "usersCount": 12
+      }, 
+      "id": "5152d130e4b03a61b7b33ff9", 
+      "categories": [
+         {
+            "pluralName": "Museums", 
+            "primary": true, 
+            "name": "Museum", 
+            "shortName": "Museum", 
+            "id": "4bf58dd8d48988d181941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Fondazione Puglisi Cosentino", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.503077012997984, 
+               "lng": 15.090589219632294, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Vittorio Emanuele 122", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Vittorio Emanuele 122", 
+         "lat": 37.503077012997984, 
+         "lng": 15.090589219632294
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 2, 
+         "checkinsCount": 57, 
+         "usersCount": 46
+      }, 
+      "id": "4dbb1a16cda109aa6c78e7be", 
+      "categories": [
+         {
+            "pluralName": "General Entertainment", 
+            "primary": true, 
+            "name": "General Entertainment", 
+            "shortName": "Entertainment", 
+            "id": "4bf58dd8d48988d1f1931735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Teatro Brancati", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51200742161578, 
+               "lng": 15.0995185684218, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Sabotino", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Sabotino", 
+         "lat": 37.51200742161578, 
+         "lng": 15.0995185684218
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 55, 
+         "usersCount": 24
+      }, 
+      "id": "4daf137f6e81e2dffdd61dc8", 
+      "categories": [
+         {
+            "pluralName": "Indie Theaters", 
+            "primary": true, 
+            "name": "Indie Theater", 
+            "shortName": "Indie", 
+            "id": "4bf58dd8d48988d135941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Teatro Ambasciatori", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.5199613242833, 
+               "lng": 15.079832375049591, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95125", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Eleonora d'Angi\u00f2 21", 
+            "95125 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Eleonora d'Angi\u00f2 21", 
+         "lat": 37.5199613242833, 
+         "lng": 15.079832375049591
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 55, 
+         "usersCount": 40
+      }, 
+      "id": "4d3c4f3a8edf37043ae2aea5", 
+      "categories": [
+         {
+            "pluralName": "Theaters", 
+            "primary": true, 
+            "name": "Theater", 
+            "shortName": "Theater", 
+            "id": "4bf58dd8d48988d137941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/performingarts_theater_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Palazzo Manganelli", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50509203780323, 
+               "lng": 15.088094341609564, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Manganelli", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Manganelli", 
+         "lat": 37.50509203780323, 
+         "lng": 15.088094341609564
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 51, 
+         "usersCount": 45
+      }, 
+      "id": "4f3fbea2e4b0ac94166d19e0", 
+      "categories": [
+         {
+            "pluralName": "Historic Sites", 
+            "primary": true, 
+            "name": "Historic Site", 
+            "shortName": "Historic Site", 
+            "id": "4deefb944765f83613cdba6e", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Casa Museo Giovanni Verga", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+390957150598", 
+         "formattedPhone": "+39 095 715 0598"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50213395788207, 
+               "lng": 15.08373498916626, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Sant'Anna 8", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Sant'Anna 8", 
+         "lat": 37.50213395788207, 
+         "lng": 15.08373498916626
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 28, 
+         "usersCount": 27
+      }, 
+      "id": "4f0eb947a17c607355482233", 
+      "categories": [
+         {
+            "pluralName": "Museums", 
+            "primary": true, 
+            "name": "Museum", 
+            "shortName": "Museum", 
+            "id": "4bf58dd8d48988d181941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Museo civico Belliniano", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+390957150535", 
+         "formattedPhone": "+39 095 715 0535"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50259357825922, 
+               "lng": 15.084405541419981, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza San Francesco d'Assisi 3", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza San Francesco d'Assisi 3", 
+         "lat": 37.50259357825922, 
+         "lng": 15.084405541419981
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 2, 
+         "checkinsCount": 28, 
+         "usersCount": 27
+      }, 
+      "id": "4f0eb26ca17c607355478781", 
+      "categories": [
+         {
+            "pluralName": "Museums", 
+            "primary": true, 
+            "name": "Museum", 
+            "shortName": "Museum", 
+            "id": "4bf58dd8d48988d181941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Odeon Romano", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50294041954102, 
+               "lng": 15.08284717798233, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Teatro Greco", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Teatro Greco", 
+         "lat": 37.50294041954102, 
+         "lng": 15.08284717798233
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 28, 
+         "usersCount": 26
+      }, 
+      "id": "4f0deaac0cd65653a002b990", 
+      "categories": [
+         {
+            "pluralName": "Historic Sites", 
+            "primary": true, 
+            "name": "Historic Site", 
+            "shortName": "Historic Site", 
+            "id": "4deefb944765f83613cdba6e", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/historicsite_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "MACS - Museo Arte Contemporanea Sicilia", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "url": "http://www.museomacs.it", 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {
+         "phone": "+390957152207", 
+         "twitter": "museomacs", 
+         "formattedPhone": "+39 095 715 2207"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50322702722602, 
+               "lng": 15.08486304587153, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Teatro Greco 2 (Via Crociferi)", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Via Crociferi", 
+         "address": "Via Teatro Greco 2", 
+         "lat": 37.50322702722602, 
+         "lng": 15.08486304587153
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 26, 
+         "usersCount": 24
+      }, 
+      "id": "51619423e4b041a5b146691e", 
+      "categories": [
+         {
+            "pluralName": "Art Museums", 
+            "primary": true, 
+            "name": "Art Museum", 
+            "shortName": "Art Museum", 
+            "id": "4bf58dd8d48988d18f941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/museum_art_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Catania, S.Giorgio", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "labeledLatLngs": [
+            {
+               "lat": 37.49452209472656, 
+               "lng": 15.047741889953613, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "formattedAddress": [
+            "Italia"
+         ], 
+         "lat": 37.49452209472656, 
+         "lng": 15.047741889953613
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 25, 
+         "usersCount": 10
+      }, 
+      "id": "536f873811d23942b4db6eef", 
+      "categories": [
+         {
+            "pluralName": "General Entertainment", 
+            "primary": true, 
+            "name": "General Entertainment", 
+            "shortName": "Entertainment", 
+            "id": "4bf58dd8d48988d1f1931735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "referralId": "v-1517224302", 
+      "verified": false, 
+      "name": "Centro Studi Laboratorio D'Arte", 
+      "venueRatingBlacklisted": true, 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.52069281540063, 
+               "lng": 15.090292344280302, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Caronda", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Caronda", 
+         "lat": 37.52069281540063, 
+         "lng": 15.090292344280302
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 9, 
+         "usersCount": 6
+      }, 
+      "id": "52d18113498e8d898038c7d3", 
+      "categories": [
+         {
+            "pluralName": "Schools", 
+            "primary": true, 
+            "name": "School", 
+            "shortName": "School", 
+            "id": "4bf58dd8d48988d13b941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/building/school_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "coro di notte monastero dei benedettini", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50195888106153, 
+               "lng": 15.084828792195227, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "piazza dante, 2", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "piazza dante, 2", 
+         "lat": 37.50195888106153, 
+         "lng": 15.084828792195227
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 8, 
+         "usersCount": 6
+      }, 
+      "id": "51d163c7498e7a115ec5d9df", 
+      "categories": [
+         {
+            "pluralName": "Concert Halls", 
+            "primary": true, 
+            "name": "Concert Hall", 
+            "shortName": "Concert Hall", 
+            "id": "5032792091d4c4b30a586d5c", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Spare Time Bowling Alley", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "labeledLatLngs": [
+            {
+               "lat": 37.46266, 
+               "lng": 14.960141, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "formattedAddress": [
+            "Italia"
+         ], 
+         "lat": 37.46266, 
+         "lng": 14.960141
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 8, 
+         "usersCount": 6
+      }, 
+      "id": "5217501411d2c4f55ef90a01", 
+      "categories": [
+         {
+            "pluralName": "Bowling Alleys", 
+            "primary": true, 
+            "name": "Bowling Alley", 
+            "shortName": "Bowling Alley", 
+            "id": "4bf58dd8d48988d1e4931735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/bowling_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Uffa Baruffa", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "labeledLatLngs": [
+            {
+               "lat": 37.56282059372674, 
+               "lng": 15.064894371658307, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "formattedAddress": [
+            "Italia"
+         ], 
+         "lat": 37.56282059372674, 
+         "lng": 15.064894371658307
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 4, 
+         "usersCount": 3
+      }, 
+      "id": "4f282494e4b052a5c895b1b6", 
+      "categories": [
+         {
+            "pluralName": "General Entertainment", 
+            "primary": true, 
+            "name": "General Entertainment", 
+            "shortName": "Entertainment", 
+            "id": "4bf58dd8d48988d1f1931735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Cine Foto Club Etna", 
+      "referralId": "v-1517224302", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "allowMenuUrlEdit": true, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.510244, 
+               "lng": 15.089698, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Oberdan 70", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Oberdan 70", 
+         "lat": 37.510244, 
+         "lng": 15.089698
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 1, 
+         "usersCount": 1
+      }, 
+      "id": "50a693fb498e38a3123859f2", 
+      "categories": [
+         {
+            "pluralName": "Art Galleries", 
+            "primary": true, 
+            "name": "Art Gallery", 
+            "shortName": "Art Gallery", 
+            "id": "4bf58dd8d48988d1e2931735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/artgallery_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }
+]
