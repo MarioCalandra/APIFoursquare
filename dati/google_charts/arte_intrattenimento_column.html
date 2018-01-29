@@ -1,0 +1,27 @@
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+  <script type="text/javascript">
+    google.charts.load("current", {packages:['corechart']});
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+      var data = google.visualization.arrayToDataTable([['Arte e intrattenimento', 'Checkins', {'role': 'style'}], ['Monastero dei Benedettini', 3796, 'darkgreen'], ['Piazza Vincenzo Bellini', 3759, 'darkgreen'], ['CineStar Catania', 1694, 'darkgreen'], ['Castello Ursino', 1606, 'darkgreen'], ['RADIO LAB', 1524, 'darkgreen'], ['Stadio Cibali "Angelo Massimino"', 1157, 'darkgreen'], ['Multisala Planet', 1142, 'darkgreen']]);
+
+      var view = new google.visualization.DataView(data);
+      view.setColumns([0, 1,
+                       { calc: "stringify",
+                         sourceColumn: 1,
+                         type: "string",
+                         role: "annotation" },
+                       2]);
+
+      var options = {
+        title: "Checkins nei primi 7 luoghi d'arte e d'intrattenimento principali",
+        width: 900,
+        height: 450,
+        bar: {groupWidth: "70%"},
+        legend: { position: "none" },
+      };
+      var chart = new google.visualization.ColumnChart(document.getElementById("columnchart_values"));
+      chart.draw(view, options);
+  }
+  </script>
+<div id="columnchart_values" style="width: 900px; height: 300px;"></div>
