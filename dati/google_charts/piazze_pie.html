@@ -5,10 +5,10 @@
       google.charts.load("current", {packages:["corechart"]});
       google.charts.setOnLoadCallback(drawChart);
       function drawChart() {
-        var data = google.visualization.arrayToDataTable([['Piazze', 'Checkins'], ['Piazza Duomo', 5386], ['Piazza Vincenzo Bellini', 3759], ['Piazza Universit\xc3\xa0', 2530], ['Piazza Stesicoro', 2520], ['Piazza Europa', 1436], ['Piazza Umberto', 1116], ['Piazza Alcal\xc3\xa0', 988], ['Altro', 11157]]);
+        var data = google.visualization.arrayToDataTable([['Piazze', 'Checkins'], ['Piazza Duomo', 5386], ['Piazza Vincenzo Bellini', 3760], ['Piazza Universit\xc3\xa0', 2530], ['Piazza Stesicoro', 2521], ['Piazza Europa', 1436], ['Piazza Umberto', 1116], ['Piazza Alcal\xc3\xa0', 988], ['Altro', 11157]]);
 
         var options = {
-          title: "% di checkins nelle piazze principali",
+          title: "% checkins luoghi principali (su 50 valori)",
           is3D: true,
         };
 

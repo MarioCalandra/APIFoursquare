@@ -5,10 +5,10 @@
       google.charts.load("current", {packages:["corechart"]});
       google.charts.setOnLoadCallback(drawChart);
       function drawChart() {
-        var data = google.visualization.arrayToDataTable([['Cibi', 'Checkins'], ['Monastero dei Benedettini', 3796], ['Piazza Vincenzo Bellini', 3759], ['CineStar Catania', 1694], ['Castello Ursino', 1606], ['RADIO LAB', 1524], ['Stadio Cibali "Angelo Massimino"', 1157], ['Multisala Planet', 1142], ['Altro', 9090]]);
+        var data = google.visualization.arrayToDataTable([['Cibi', 'Checkins'], ['Monastero dei Benedettini', 3796], ['Piazza Vincenzo Bellini', 3760], ['CineStar Catania', 1694], ['Castello Ursino', 1606], ['RADIO LAB', 1524], ['Stadio Cibali "Angelo Massimino"', 1157], ['Multisala Planet', 1142], ['Altro', 9090]]);
 
         var options = {
-          title: "% di checkins nei luoghi d'arte e d'intrattenimento",
+          title: "% checkins luoghi principali (su 50 valori)",
           is3D: true,
         };
 
