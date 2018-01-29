@@ -1,0 +1,2983 @@
+[
+   {
+      "verified": false, 
+      "name": "Piazza Duomo", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50247132417524, 
+               "lng": 15.087158262874627, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95131", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Duomo", 
+            "95131 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Duomo", 
+         "lat": 37.50247132417524, 
+         "lng": 15.087158262874627
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 39, 
+         "checkinsCount": 5386, 
+         "usersCount": 3354
+      }, 
+      "id": "4cf16112f98ba090661cc873", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Vincenzo Bellini", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.504388699636614, 
+               "lng": 15.090792598866965, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95131", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Vincenzo Bellini", 
+            "95131 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Vincenzo Bellini", 
+         "lat": 37.504388699636614, 
+         "lng": 15.090792598866965
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 13, 
+         "checkinsCount": 3759, 
+         "usersCount": 1355
+      }, 
+      "id": "4bfd9141b68d0f47c0f8e857", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Universit\u00e0", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.503660508815024, 
+               "lng": 15.087199911891709, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95131", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Universit\u00e0", 
+            "95131 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Universit\u00e0", 
+         "lat": 37.503660508815024, 
+         "lng": 15.087199911891709
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 13, 
+         "checkinsCount": 2530, 
+         "usersCount": 1238
+      }, 
+      "id": "4c30ddde3896e21e442fe690", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Stesicoro", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.507466713551395, 
+               "lng": 15.08628729300453, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Stesicoro", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Stesicoro", 
+         "lat": 37.507466713551395, 
+         "lng": 15.08628729300453
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 10, 
+         "checkinsCount": 2520, 
+         "usersCount": 1114
+      }, 
+      "id": "4ce45e7d76388cfad35f2303", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Europa", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.517197818842625, 
+               "lng": 15.106372833251953, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Europa", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Europa", 
+         "lat": 37.517197818842625, 
+         "lng": 15.106372833251953
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 2, 
+         "checkinsCount": 1436, 
+         "usersCount": 434
+      }, 
+      "id": "4d1b400102a66dcb71286765", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Umberto", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {
+         "phone": "+39095317142", 
+         "formattedPhone": "+39 095 317142"
+      }, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51160304384914, 
+               "lng": 15.08964150404773, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Vittorio Emanuele III", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Vittorio Emanuele III", 
+         "lat": 37.51160304384914, 
+         "lng": 15.08964150404773
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 3, 
+         "checkinsCount": 1116, 
+         "usersCount": 349
+      }, 
+      "id": "4e11d5a38877ac23b664070a", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Alcal\u00e0", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.500976553943985, 
+               "lng": 15.089167648314458, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Paolo Borsellino", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Paolo Borsellino", 
+         "lat": 37.500976553943985, 
+         "lng": 15.089167648314458
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 4, 
+         "checkinsCount": 988, 
+         "usersCount": 449
+      }, 
+      "id": "4c530c7072cf0f471b0a3ad2", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza G. Verga", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.514363583647445, 
+               "lng": 15.09271303593816, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Giovanni Verga", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Giovanni Verga", 
+         "lat": 37.514363583647445, 
+         "lng": 15.09271303593816
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 4, 
+         "checkinsCount": 905, 
+         "usersCount": 344
+      }, 
+      "id": "4e0898811f6e21103393b2f1", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Roma", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51324065826899, 
+               "lng": 15.082780122756958, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95125", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Roma", 
+            "95125 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Roma", 
+         "lat": 37.51324065826899, 
+         "lng": 15.082780122756958
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 4, 
+         "checkinsCount": 789, 
+         "usersCount": 309
+      }, 
+      "id": "4d0724cd2f96f04d86612b54", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "u Futtinu", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.4989958030903, 
+               "lng": 15.067267029786711, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Palestro", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Palestro", 
+         "lat": 37.4989958030903, 
+         "lng": 15.067267029786711
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 4, 
+         "checkinsCount": 684, 
+         "usersCount": 162
+      }, 
+      "id": "4d0feb5b38bb6ea8bb5cc1aa", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Cavour", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51748715138366, 
+               "lng": 15.083394348621368, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95125", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Cavour", 
+            "95125 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Cavour", 
+         "lat": 37.51748715138366, 
+         "lng": 15.083394348621368
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 680, 
+         "usersCount": 273
+      }, 
+      "id": "4d60ea841ee8721e7584b021", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Castello", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Aci Castello", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.554287995201285, 
+               "lng": 15.148250310255323, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Castello", 
+            "Aci Castello Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Castello", 
+         "lat": 37.554287995201285, 
+         "lng": 15.148250310255323
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 5, 
+         "checkinsCount": 672, 
+         "usersCount": 345
+      }, 
+      "id": "4db3f8964b226b343d83fe6b", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Trento", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51413129569064, 
+               "lng": 15.089634491270962, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Trento", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Trento", 
+         "lat": 37.51413129569064, 
+         "lng": 15.089634491270962
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 668, 
+         "usersCount": 294
+      }, 
+      "id": "4f6d8865e4b05c9c2aeab9c3", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Lanza", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51326854417602, 
+               "lng": 15.08064897679953, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Vincenzo Lanza", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Vincenzo Lanza", 
+         "lat": 37.51326854417602, 
+         "lng": 15.08064897679953
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 3, 
+         "checkinsCount": 646, 
+         "usersCount": 133
+      }, 
+      "id": "4d0ffd585584f04d89365516", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Santa Maria di Ges\u00f9", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51325162729255, 
+               "lng": 15.080667145430839, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Santa Maria di Ges\u00f9", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Santa Maria di Ges\u00f9", 
+         "lat": 37.51325162729255, 
+         "lng": 15.080667145430839
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 622, 
+         "usersCount": 201
+      }, 
+      "id": "4d012db92685a35d9ad3cc90", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Dante", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50397454598803, 
+               "lng": 15.080912502543576, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Dante", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Dante", 
+         "lat": 37.50397454598803, 
+         "lng": 15.080912502543576
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 3, 
+         "checkinsCount": 562, 
+         "usersCount": 228
+      }, 
+      "id": "4d82025c2fb737040c1d8311", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Quattro Canti", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.505120385949404, 
+               "lng": 15.086766940609323, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95131", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Etnea (Via Antonino di Sangiuliano)", 
+            "95131 Catania Sicilia", 
+            "Italia"
+         ], 
+         "crossStreet": "Via Antonino di Sangiuliano", 
+         "address": "Via Etnea", 
+         "lat": 37.505120385949404, 
+         "lng": 15.086766940609323
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 4, 
+         "checkinsCount": 547, 
+         "usersCount": 233
+      }, 
+      "id": "4dc6dbfa2271f270515020c5", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Nettuno", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.52395798473513, 
+               "lng": 15.115974051871893, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95127", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Nettuno", 
+            "95127 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Nettuno", 
+         "lat": 37.52395798473513, 
+         "lng": 15.115974051871893
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 2, 
+         "checkinsCount": 543, 
+         "usersCount": 170
+      }, 
+      "id": "4d6ace5ac147721e59563af5", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Manganelli", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50515657213984, 
+               "lng": 15.08766362610201, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Manganelli", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Manganelli", 
+         "lat": 37.50515657213984, 
+         "lng": 15.08766362610201
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 2, 
+         "checkinsCount": 453, 
+         "usersCount": 162
+      }, 
+      "id": "4e60a5bba80951b317b37843", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Cutelli", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50335245809888, 
+               "lng": 15.093155710054845, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Cutelli", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Cutelli", 
+         "lat": 37.50335245809888, 
+         "lng": 15.093155710054845
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 320, 
+         "usersCount": 157
+      }, 
+      "id": "4d16962c6d103704100a31bd", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Montessori", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50886388050448, 
+               "lng": 15.075935418067495, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Maria Montessori", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Maria Montessori", 
+         "lat": 37.50886388050448, 
+         "lng": 15.075935418067495
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 304, 
+         "usersCount": 74
+      }, 
+      "id": "4df1d2eb88772e1f814cbef0", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Spirito Santo", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50689174297707, 
+               "lng": 15.088171362876892, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Spirito Santo", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Spirito Santo", 
+         "lat": 37.50689174297707, 
+         "lng": 15.088171362876892
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 289, 
+         "usersCount": 96
+      }, 
+      "id": "4e4c4764483b734b80775796", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Largo Rosolino Pilo", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51538660181335, 
+               "lng": 15.087522131756272, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95124", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Largo Rosolino Pilo", 
+            "95124 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Largo Rosolino Pilo", 
+         "lat": 37.51538660181335, 
+         "lng": 15.087522131756272
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 268, 
+         "usersCount": 93
+      }, 
+      "id": "4d6cec81da06a1cd77c9a25b", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Eroi D'Ungheria", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50770055994516, 
+               "lng": 15.050002233565662, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Eroi D'Ungheria", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Eroi D'Ungheria", 
+         "lat": 37.50770055994516, 
+         "lng": 15.050002233565662
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 248, 
+         "usersCount": 128
+      }, 
+      "id": "4d6bff71df3d6ea8d550d826", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Risorgimento", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.498977850809545, 
+               "lng": 15.067264237538518, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza del Risorgimento", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza del Risorgimento", 
+         "lat": 37.498977850809545, 
+         "lng": 15.067264237538518
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 219, 
+         "usersCount": 76
+      }, 
+      "id": "4ee9d19e775b562a395f6c0d", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Villa Pacini", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.501203516917684, 
+               "lng": 15.087846771705507, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Via Cardinale Dusmet", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Via Cardinale Dusmet", 
+         "lat": 37.501203516917684, 
+         "lng": 15.087846771705507
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 2, 
+         "checkinsCount": 217, 
+         "usersCount": 124
+      }, 
+      "id": "4e28154662e17c330199efb9", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Carlo Alberto", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.5099485445539, 
+               "lng": 15.088157956886231, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Carlo Alberto", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Carlo Alberto", 
+         "lat": 37.5099485445539, 
+         "lng": 15.088157956886231
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 178, 
+         "usersCount": 70
+      }, 
+      "id": "4c30d46216adc92847b9bf9c", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Ariosto", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51856988281318, 
+               "lng": 15.101187581130889, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95127", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Ludovico Ariosto", 
+            "95127 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Ludovico Ariosto", 
+         "lat": 37.51856988281318, 
+         "lng": 15.101187581130889
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 2, 
+         "checkinsCount": 164, 
+         "usersCount": 36
+      }, 
+      "id": "4ea1dad9e5facb29c7030fe5", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Michelangelo", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.522643890248425, 
+               "lng": 15.095815658569336, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Michelangelo Buonarroti", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Michelangelo Buonarroti", 
+         "lat": 37.522643890248425, 
+         "lng": 15.095815658569336
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 141, 
+         "usersCount": 78
+      }, 
+      "id": "4f23b8f5e4b0a93fbe289ee7", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza San Francesco Di Paola", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50243313984895, 
+               "lng": 15.095226013792644, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza San Francesco di Paola", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza San Francesco di Paola", 
+         "lat": 37.50243313984895, 
+         "lng": 15.095226013792644
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 124, 
+         "usersCount": 26
+      }, 
+      "id": "4e1b38591f6e24238dde59ef", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Regina Elena", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "San Giovanni la Punta", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.56458420331436, 
+               "lng": 15.089812777542086, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "San Giovanni la Punta Sicilia", 
+            "Italia"
+         ], 
+         "lat": 37.56458420331436, 
+         "lng": 15.089812777542086
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 2, 
+         "checkinsCount": 115, 
+         "usersCount": 25
+      }, 
+      "id": "4e54f5a722710ebb5a9047b2", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Bovio", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51090408660364, 
+               "lng": 15.094200745430262, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95131", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Bovio", 
+            "95131 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Bovio", 
+         "lat": 37.51090408660364, 
+         "lng": 15.094200745430262
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 115, 
+         "usersCount": 52
+      }, 
+      "id": "4d70de149afdb60c12073952", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Iolanda", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51272269358162, 
+               "lng": 15.09768316862319, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Principessa Iolanda", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Principessa Iolanda", 
+         "lat": 37.51272269358162, 
+         "lng": 15.09768316862319
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 113, 
+         "usersCount": 75
+      }, 
+      "id": "4e4aa6f0483b16676e416675", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza G. Verga", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Aci Trezza", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.563561090155154, 
+               "lng": 15.161607563495636, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza G. Verga", 
+            "Aci Trezza Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza G. Verga", 
+         "lat": 37.563561090155154, 
+         "lng": 15.161607563495636
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 103, 
+         "usersCount": 39
+      }, 
+      "id": "4d820cc1bede548144020ad1", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza della Guardia", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.519316728240305, 
+               "lng": 15.10534018278122, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Santa Maria della Guardia", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Santa Maria della Guardia", 
+         "lat": 37.519316728240305, 
+         "lng": 15.10534018278122
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 82, 
+         "usersCount": 21
+      }, 
+      "id": "4dbd18741e72b351cac33225", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Tondo Gioieni", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.52693776253636, 
+               "lng": 15.082065685955381, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Circonvallazione", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Circonvallazione", 
+         "lat": 37.52693776253636, 
+         "lng": 15.082065685955381
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 5, 
+         "checkinsCount": 67, 
+         "usersCount": 37
+      }, 
+      "id": "4da0f79d63b5a35dbc83de19", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Beato Angelico", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.52020597148865, 
+               "lng": 15.081661641597748, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza del Beato Angelico", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza del Beato Angelico", 
+         "lat": 37.52020597148865, 
+         "lng": 15.081661641597748
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 63, 
+         "usersCount": 13
+      }, 
+      "id": "4e806cec754a31ed09b17c40", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazzale Raffaello Sanzio", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.5224796953306, 
+               "lng": 15.092210625290639, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazzale Raffaello Sanzio", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazzale Raffaello Sanzio", 
+         "lat": 37.5224796953306, 
+         "lng": 15.092210625290639
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 45, 
+         "usersCount": 30
+      }, 
+      "id": "4f3768b0e4b0fb0dfceaa91b", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Curr\u00f2", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "labeledLatLngs": [
+            {
+               "lat": 37.5010657551506, 
+               "lng": 15.086047053337095, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "formattedAddress": [
+            "Italia"
+         ], 
+         "lat": 37.5010657551506, 
+         "lng": 15.086047053337095
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 43, 
+         "usersCount": 36
+      }, 
+      "id": "505b6f0ce4b08d1ea2322b21", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Immacolata", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "San Gregorio di Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.569124804332425, 
+               "lng": 15.11410117248951, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "San Gregorio di Catania Sicilia", 
+            "Italia"
+         ], 
+         "lat": 37.569124804332425, 
+         "lng": 15.11410117248951
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 42, 
+         "usersCount": 21
+      }, 
+      "id": "4c7a839abd346dcb44a0f8ef", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Bonadies", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.51804879370202, 
+               "lng": 15.068875551223755, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Bonadies", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Bonadies", 
+         "lat": 37.51804879370202, 
+         "lng": 15.068875551223755
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 34, 
+         "usersCount": 21
+      }, 
+      "id": "4e736e50b993272e5222ab80", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piano madonna degli ammalati", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "labeledLatLngs": [
+            {
+               "lat": 37.53797944571746, 
+               "lng": 15.022909920990639, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "formattedAddress": [
+            "Italia"
+         ], 
+         "lat": 37.53797944571746, 
+         "lng": 15.022909920990639
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 1, 
+         "checkinsCount": 25, 
+         "usersCount": 12
+      }, 
+      "id": "522b55e011d2a6f8f6680780", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza della Repubblica", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Misterbianco", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.5180223746581, 
+               "lng": 15.00855231930475, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Misterbianco Sicilia", 
+            "Italia"
+         ], 
+         "lat": 37.5180223746581, 
+         "lng": 15.00855231930475
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 19, 
+         "usersCount": 11
+      }, 
+      "id": "4e6e796352b1d151b80a077d", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Borgo", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "labeledLatLngs": [
+            {
+               "lat": 37.51761284126888, 
+               "lng": 15.083835438705266, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "formattedAddress": [
+            "Italia"
+         ], 
+         "lat": 37.51761284126888, 
+         "lng": 15.083835438705266
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 17, 
+         "usersCount": 9
+      }, 
+      "id": "5274581e11d220aafd1a6808", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza della Borsa", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.50783858263569, 
+               "lng": 15.084996968507767, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza della Borsa", 
+            "Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza della Borsa", 
+         "lat": 37.50783858263569, 
+         "lng": 15.084996968507767
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 15, 
+         "usersCount": 10
+      }, 
+      "id": "4e7783c452b1c8e51a5afaed", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Milicia", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "labeledLatLngs": [
+            {
+               "lat": 37.51433181762695, 
+               "lng": 15.011250495910645, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "formattedAddress": [
+            "Italia"
+         ], 
+         "lat": 37.51433181762695, 
+         "lng": 15.011250495910645
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 7, 
+         "usersCount": 5
+      }, 
+      "id": "4fbe583be4b0e542bf24b73c", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza San Giovanni Galermo", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.55170131978471, 
+               "lng": 15.050231516361237, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95123", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "Piazza Chiesa Madre", 
+            "95123 Catania Sicilia", 
+            "Italia"
+         ], 
+         "address": "Piazza Chiesa Madre", 
+         "lat": 37.55170131978471, 
+         "lng": 15.050231516361237
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 6, 
+         "usersCount": 6
+      }, 
+      "id": "4e52a57888775123c0ebcb6b", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazzetta Goliarda Sapienza", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "city": "Catania", 
+         "labeledLatLngs": [
+            {
+               "lat": 37.505802, 
+               "lng": 15.089592, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "postalCode": "95131", 
+         "state": "Sicilia", 
+         "formattedAddress": [
+            "95131 Catania Sicilia", 
+            "Italia"
+         ], 
+         "lat": 37.505802, 
+         "lng": 15.089592
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 3, 
+         "usersCount": 3
+      }, 
+      "id": "597a569fc53093041ec3fcbb", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "Piazza Due Giugno", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "labeledLatLngs": [
+            {
+               "lat": 37.51087951660156, 
+               "lng": 15.069294929504395, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "formattedAddress": [
+            "Italia"
+         ], 
+         "lat": 37.51087951660156, 
+         "lng": 15.069294929504395
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 0, 
+         "usersCount": 0
+      }, 
+      "id": "53558d96498e69f35e1343b1", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }, 
+   {
+      "verified": false, 
+      "name": "largo serafino fam\u00e0", 
+      "referralId": "v-1517223017", 
+      "venueChains": [], 
+      "hereNow": {
+         "count": 0, 
+         "groups": [], 
+         "summary": "Nobody here"
+      }, 
+      "specials": {
+         "count": 0, 
+         "items": []
+      }, 
+      "contact": {}, 
+      "hasPerk": false, 
+      "location": {
+         "labeledLatLngs": [
+            {
+               "lat": 37.51982879638672, 
+               "lng": 15.091070175170898, 
+               "label": "display"
+            }
+         ], 
+         "cc": "IT", 
+         "country": "Italia", 
+         "formattedAddress": [
+            "Italia"
+         ], 
+         "lat": 37.51982879638672, 
+         "lng": 15.091070175170898
+      }, 
+      "beenHere": {
+         "lastCheckinExpiredAt": 0
+      }, 
+      "stats": {
+         "tipCount": 0, 
+         "checkinsCount": 0, 
+         "usersCount": 0
+      }, 
+      "id": "4f7ff998e4b0bf6cc8fb568b", 
+      "categories": [
+         {
+            "pluralName": "Plazas", 
+            "primary": true, 
+            "name": "Plaza", 
+            "shortName": "Plaza", 
+            "id": "4bf58dd8d48988d164941735", 
+            "icon": {
+               "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/plaza_", 
+               "suffix": ".png"
+            }
+         }
+      ]
+   }
+]
